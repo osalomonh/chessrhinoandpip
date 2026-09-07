@@ -2,7 +2,7 @@
 
 Two friends invent a game on a floor. Sixteen short chapters for children aged six to eight, played by tapping squares while Rhino and Pip talk it through. Nothing is timed, nothing is scored, and a wrong tap gets a line of dialogue rather than a red flash.
 
-**Live:** https://YOUR-GITHUB-USER.github.io/chessrhinoandpip/ *(placeholder until the first deploy)*
+**Live:** https://osalomonh.github.io/chessrhinoandpip/
 
 ## Run locally
 
