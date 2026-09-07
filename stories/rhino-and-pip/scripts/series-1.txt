@@ -1,0 +1,3478 @@
+RHINO AND PIP — SERIES 1
+Sixteen chapters, working scripts
+Version 5 — 7 September 2026
+
+CHANGED SINCE V4
+  Classified wrongs on every tap where a miss can mean more than one thing.
+  The line now matches the square or the picture they tapped.
+  Taps with only one miss type stay as pick-1-of-3, labelled that way.
+
+CHANGED SINCE V3
+  Ch 1 tap 1: wrong responses are now classified by square.
+  a1, h8, any light, any dark. Every wrong tap gets a line that fits it.
+  Ch 1 tap 4: same rule. Same-colour neighbour / not touching / Rhino’s square.
+  Rule added to HOW EVERY CHAPTER WORKS: classify when a miss can mean
+  more than one thing. Never play a dark-square line on a light-square tap.
+
+CHANGED SINCE V2
+  SHOW tier written. One SHOW per tap.
+  15 chapters x 4 taps + chapter 6 x 5 taps = 65 SHOWs.
+  Chapter 6 keeps a fifth tap. The extra SHOW lives there.
+
+  Fires on the fourth consecutive wrong tap.
+  Pip stumbles onto the answer.
+  Rhino says "That is the one."
+  The tap completes and the story moves on.
+
+  SHOW may point at the square with a body.
+  It does not lecture the rule.
+
+CHANGED SINCE V1
+  Ch 9   celebration: The Going-Away Party -> The Bench
+  Ch 12  celebration: The Tiny House With Three Doors -> Three Doors, One Window
+  Ch 13  celebration: confetti changed from crumbs to floor squares
+  Everything else is unchanged.
+
+STILL TO WATCH
+  Ch 16, tap 4: the moment the child is asked to avoid the draw and deliver
+  mate instead. Watch it in playtest.
+
+
+RHINO AND PIP
+Series 1 — sixteen chapter scripts
+5 September 2026
+
+Working scripts. We can still move things.
+Rhino and Pip are original. The stories are original.
+Short-page friendship stories inspired the rhythm.
+No names, likenesses, lines, or plots from other series.
+
+
+================================================================
+HOW EVERY CHAPTER WORKS
+================================================================
+
+They are already playing.
+The child is already there.
+One joke per chapter.
+The child taps.
+Right: one reaction.
+Wrong: match what they actually tapped.
+If a tap can be wrong in more than one way, classify the square.
+Do not play a dark-square line on a light-square miss.
+If there is only one way to be wrong, pick 1 of 3 at random.
+The joke can change. The fact cannot.
+After two or three misses, use the PLAIN LINE.
+On the fourth miss in a row, use SHOW.
+Pip lands on the answer by accident.
+Rhino:  That is the one.
+The tap counts as done. Go on.
+
+When the taps are done, they celebrate.
+The celebration is silly and separate.
+It is not a prize for being good.
+It is what friends do when a game is over.
+
+Nobody says chess until Chapter 16.
+
+
+================================================================
+CHAPTER 1 — THE FANCY CORNER
+================================================================
+
+Quietly holding: the floor is two colours. The right-hand corner is light.
+The joke: Pip is sure dark is fancier.
+Taps: 4.
+Celebration: The Very Tall Ice Cream.
+
+
+OPEN
+
+The floor is already there. No pieces.
+Pip stands on the near-left corner. Dark.
+Rhino stands on the near-right corner. Light.
+They look at the child.
+
+Pip:    This corner is the good one.
+Rhino:  Why.
+Pip:    Dark is fancier.
+Rhino:  I thought the one on the right was light.
+Pip:    That cannot be right.
+         Dark has mystery.
+         Dark has style.
+Rhino:  We should ask.
+
+
+TAP 1 — Tap the light corner.
+
+RIGHT
+Pip looks at his feet.
+Pip:    Oh.
+Rhino:  Light on the right.
+Pip:    It is a little fancy.
+Rhino:  A little.
+Pip:    I was still mostly right.
+Rhino:  You were standing.
+
+WRONG — classified. Match the square, top to bottom.
+a1 — Pip's corner:
+   Pip:    See. They like mine.
+   Rhino:  They tapped yours. Yours is dark.
+   Pip:    Dark is still winning.
+   Rhino:  Dark is not the corner we need. The right one.
+h8 — the far light corner:
+   Rhino:  That is a corner. That is light.
+   Pip:    Then we are done.
+   Rhino:  That one is far. We want the near one.
+   Pip:    Near is a feeling.
+   Rhino:  Near is by your hand.
+any light square:
+   Rhino:  That one is light.
+   Pip:    Light is what we wanted.
+   Rhino:  Light in a corner.
+   Pip:    Corners are so far away.
+   Rhino:  This one is by your right hand.
+any dark square:
+   Pip:    Another one of mine.
+   Rhino:  That one is dark.
+   Pip:    I have many.
+   Rhino:  We need the light one. In the corner. On the right.
+
+PLAIN LINE
+Rhino:  Your right hand. That corner. The light one.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip sits down hard on the near-right corner.
+He looks surprised to be there.
+
+Pip:    I was going to my corner.
+Rhino:  That is the one.
+Pip:    This one is light.
+Rhino:  Light on the right.
+Pip:    I meant to do that.
+Rhino:  Of course.
+
+
+TAP 2 — Tap a light square.
+
+Pip hops only on dark squares.
+Pip:    Fine. I will take all the fancy ones.
+Rhino:  There are the other ones too.
+Pip:    The pale ones.
+Rhino:  The light ones.
+Pip:    I will allow one.
+
+RIGHT
+Pip:    It is not that bad.
+Rhino:  Half the floor is this.
+Pip:    Half. That is a lot of not-fancy.
+Rhino:  Or a lot of floor.
+
+WRONG — one miss type (any dark). Pick 1 of 3.
+1  Pip:    That is one of mine.
+   Rhino:  Dark. We want a light one.
+   Pip:    Mine needed a friend.
+   Rhino:  Later.
+2  Rhino:  You found a square.
+   Pip:    A great square.
+   Rhino:  A dark square. Tap a light one.
+   Pip:    Light ones are shy.
+   Rhino:  They are not shy. They are everywhere.
+3  Pip:    I will close my eyes and it will become fancy.
+   Rhino:  It will stay dark.
+   Pip:    Rude.
+   Rhino:  A light square. Any light square.
+
+PLAIN LINE
+Rhino:  A light square. Not a dark one.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip hops, misses a dark square, and lands on a light one.
+He stares at his feet.
+
+Pip:    Betrayal.
+Rhino:  That is the one.
+Pip:    A light one.
+Rhino:  A light one.
+Pip:    I will allow it.
+
+
+TAP 3 — Tap a dark square.
+
+Pip is on a light square. He looks injured.
+Pip:    This one is not fancy.
+Rhino:  You can stand on those too.
+Pip:    I am standing. I am not enjoying it.
+Rhino:  There is a dark one next to you.
+
+RIGHT
+Pip steps on it like a stage.
+Pip:    Ah. Home.
+Rhino:  You liked that colour already.
+Pip:    I like it more now that I suffered.
+
+WRONG — one miss type (any light). Pick 1 of 3.
+1  Pip:    Two light ones. A collection.
+   Rhino:  We need a dark one now.
+   Pip:    The collection was going so well.
+   Rhino:  Later.
+2  Rhino:  Still light.
+   Pip:    Maybe all the dark ones left.
+   Rhino:  They did not leave. They are next to the light ones.
+3  Pip:    I have committed to light now.
+   Rhino:  For one tap, un-commit.
+   Pip:    Painful.
+   Rhino:  A dark one.
+
+PLAIN LINE
+Rhino:  A dark square this time.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip backs up from a light square and steps onto a dark one
+without looking.
+
+Pip:    Oh.
+Rhino:  That is the one.
+Pip:    Home.
+Rhino:  Home.
+
+
+TAP 4 — Tap the square next to Rhino’s foot. Other colour.
+
+Rhino puts a foot on a light square.
+Rhino:  This one. Then that one.
+Pip:    Light. Fancy. Light. Fancy.
+Rhino:  If you say so.
+Pip:    I do say so. I have a system.
+Rhino:  Tap the one next to my foot.
+
+RIGHT
+Pip:    It does that the whole way.
+Rhino:  It does.
+Pip:    So my system is the floor’s system.
+Rhino:  The floor had it first.
+Pip:    The floor can have credit. Some credit.
+
+WRONG — classified. Match the square.
+same colour, touching Rhino:
+   Rhino:  That one is next to me.
+   Pip:    Then we are done.
+   Rhino:  Next, and the other colour.
+   Pip:    Matching is nicer.
+   Rhino:  Matching is the same colour. We want the other one.
+not touching Rhino:
+   Pip:    A square is a square.
+   Rhino:  Next to this one. Touching my foot.
+   Pip:    Next is a feeling.
+   Rhino:  Next is touching my foot.
+Rhino’s own square:
+   Pip:    I tapped you.
+   Rhino:  I am already here.
+   Pip:    Sharing.
+   Rhino:  The square beside me. The other colour.
+
+PLAIN LINE
+Rhino:  Touching this one. Different colour.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip walks toward Rhino to argue
+and stops on the square touching Rhino’s foot.
+
+Pip:    I was not tapping.
+Rhino:  That is the one.
+Pip:    It is next to you.
+Rhino:  Different colour.
+Pip:    My argument landed.
+Rhino:  Your feet landed.
+
+
+CELEBRATION — The Very Tall Ice Cream
+
+An ice cream arrives on the light corner.
+It is taller than Rhino.
+
+Pip:    Is this because of the corner.
+Rhino:  I think it is because we finished.
+Pip:    I will eat the fancy part.
+Rhino:  Which part is fancy.
+Pip:    The dark sprinkles.
+Rhino:  Of course.
+
+The ice cream leans toward Pip’s old corner.
+Pip leans with it.
+Rhino holds the cone like a tree.
+
+Pip:    Can we keep the floor like this.
+Rhino:  Yes.
+Pip:    Even the light ones.
+Rhino:  Even those.
+Pip:    Even the ice cream.
+Rhino:  That part is gone.
+
+
+================================================================
+CHAPTER 2 — THE NAME OF A SQUARE
+================================================================
+
+Quietly holding: every square has a name. Letter first, then number.
+The joke: Pip can only say “that one.”
+Taps: 4.
+Celebration: They name everything.
+
+
+OPEN
+
+Same floor. Still no pieces.
+Pip points at a square. Then another. Then another.
+
+Pip:    Sit there.
+Rhino:  There.
+Pip:    There.
+Rhino:  That is three theres.
+Pip:    I have many theres.
+Rhino:  I have one body.
+Pip:    Sit on that one.
+Rhino:  Which that one.
+Pip:    THAT one.
+         They look at the child.
+
+
+TAP 1 — Tap the square Pip is pointing at. (e4)
+
+Pip’s flipper is aimed at e4. Badly.
+
+RIGHT
+Rhino sits. Most of him sits. Some of him sits on other squares.
+Rhino:  This one has a name.
+Pip:    That One.
+Rhino:  E four.
+Pip:    That is a weird name for That One.
+Rhino:  Letter. Then number.
+Pip:    I will allow it.
+
+WRONG — classified. Match the square.
+neighbour of e4:
+   Pip:    Almost That One. Not That One.
+   Rhino:  Next door is not the name.
+   Pip:    Neighbours count.
+   Rhino:  Not for names.
+same file, not four:
+   Rhino:  That is e. That is not four.
+   Pip:    I found the letter. I am resting.
+   Rhino:  One more slide. Up to four.
+same rank, not e:
+   Rhino:  That is four. That is not e.
+   Pip:    Fours are a family.
+   Rhino:  This family member is e.
+somewhere else:
+   Pip:    I pointed with my soul.
+   Rhino:  Point with the flipper.
+   Pip:    The flipper is shy today.
+   Rhino:  The square in the middle. E four.
+
+PLAIN LINE
+Rhino:  The square under Pip’s flipper.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip waves the flipper harder.
+The flipper drops onto e4.
+
+Pip:    My flipper found it.
+Rhino:  That is the one.
+Pip:    That One.
+Rhino:  E four.
+
+
+TAP 2 — Tap e4 again, after they say the name out loud.
+
+Rhino:  E.
+Pip:    E.
+Rhino:  Four.
+Pip:    Four.
+Rhino:  E four.
+Pip:    That One Who Is Called E Four.
+Rhino:  Close enough.
+         Find it again.
+
+RIGHT
+Pip:    I found That One twice.
+Rhino:  You found e4 twice.
+Pip:    We are very good at names.
+Rhino:  We are getting started.
+
+WRONG — classified. Match the square.
+neighbour:
+   Pip:    That is close. I can feel it.
+   Rhino:  Close is not e four.
+   Pip:    A confident close.
+   Rhino:  Letter e. Then up to four.
+wrong letter:
+   Rhino:  That letter is not e.
+   Pip:    Letters all look like letters.
+   Rhino:  The one that looks like a comb. Then four.
+wrong number:
+   Rhino:  That is e. Wrong number.
+   Pip:    Numbers are a mood.
+   Rhino:  Four.
+somewhere else:
+   Pip:    I chose a better square.
+   Rhino:  We are not choosing. We are finding.
+   Pip:    Finding is choosing with extra steps.
+   Rhino:  E four.
+
+PLAIN LINE
+Rhino:  Letter e along the bottom. Then up to 4.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip says “e” to one square and “four” to another.
+Then he sits on the square that is both.
+
+Pip:    I stacked the words.
+Rhino:  That is the one.
+Pip:    E four.
+Rhino:  E four.
+
+
+TAP 3 — Tap a4. (letter first)
+
+Pip:    I want a square with an a.
+Rhino:  A is the first letter.
+Pip:    A is the best letter. It is first.
+Rhino:  First is not best. First is first.
+Pip:    Tap the a that is on row four.
+
+RIGHT
+Pip:    A four. Almost as good as That One.
+Rhino:  Different square. Own name.
+Pip:    I will collect names.
+Rhino:  There are sixty-four.
+Pip:    I will collect two.
+
+WRONG — classified. Match the square.
+a file, not four:
+   Pip:    That is a. That is not four.
+   Rhino:  Letter first. Then the number.
+   Pip:    I did letter. I am resting.
+   Rhino:  One more slide. Up to four.
+rank four, not a:
+   Rhino:  That is four. That is not a.
+   Pip:    Ends are similar.
+   Rhino:  Ends are far. A is the first letter.
+somewhere else:
+   Pip:    I tapped a letter. Work is done.
+   Rhino:  A letter and a number.
+   Pip:    Greedy.
+   Rhino:  A four.
+
+PLAIN LINE
+Rhino:  The a file. Square 4.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip walks the a file to look for a better letter
+and stops on four.
+
+Pip:    I was passing through.
+Rhino:  That is the one.
+Pip:    A four.
+Rhino:  A four.
+
+
+TAP 4 — Tap h1. (the light corner they already know)
+
+Rhino:  The light corner has a name too.
+Pip:    Fancy Corner.
+Rhino:  H one.
+Pip:    That is a terrible name for Fancy Corner.
+Rhino:  It is the name.
+Pip:    We can have both.
+
+RIGHT
+Pip:    Fancy Corner, also known as h1.
+Rhino:  H one.
+Pip:    I will send it cards under both names.
+Rhino:  Please do not.
+
+WRONG — classified. Match the square.
+h8 — far light corner:
+   Pip:    That is h eight. The far fancy.
+   Rhino:  H one is next to us. The near corner on the right.
+a1 — Pip's old corner:
+   Rhino:  That is a one. Pip’s old corner.
+   Pip:    My corner deserves two names.
+   Rhino:  It has one. A one. We want h one.
+a8 or other corner:
+   Pip:    I tapped a corner. Corners are a family.
+   Rhino:  This family member is h one. Light. Right. Near.
+somewhere else:
+   Rhino:  That is not the light corner by your hand.
+   Pip:    I was sending the card ahead.
+   Rhino:  H one.
+
+PLAIN LINE
+Rhino:  The light corner by your right hand. H one.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip goes to send a card to Fancy Corner
+and stands on it to write the address.
+
+Pip:    I needed a desk.
+Rhino:  That is the one.
+Pip:    H one.
+Rhino:  H one.
+
+
+CELEBRATION — They Name Everything
+
+Pip names the floor.
+Pip names Rhino’s left foot.
+Pip names Rhino’s right foot.
+Pip names the air.
+
+Pip:    This air is Steve.
+Rhino:  The air is not Steve.
+Pip:    You do not know that.
+Rhino:  I am sitting in Steve.
+Pip:    Then say thank you.
+
+They sit in Steve.
+The squares keep their real names.
+Pip keeps a list. The list has two names on it.
+E4. Steve.
+
+
+================================================================
+CHAPTER 3 — STRAIGHT WALKERS
+================================================================
+
+Quietly holding: the rook walks any number of squares along a row or column. Never diagonal.
+The joke: Pip cannot walk straight. His body wants to slide.
+Taps: 4. Piece: rook. Board can be small after tap 1.
+Celebration: The Hallway Train.
+
+
+OPEN
+
+A tall piece is on the floor. The rook.
+Rhino stands behind it like a building.
+Pip tries to stand behind it and slides off.
+
+Pip:    This one looks like you.
+Rhino:  It is a rook.
+Pip:    A Rhino.
+Rhino:  A rook.
+Pip:    We can agree later.
+         What does it do.
+Rhino:  It walks hallways.
+         Straight.
+         Only straight.
+Pip:    I can do that.
+
+Pip walks. He curves. He curves more.
+
+
+TAP 1 — Slide the rook to the star on the same row. (1 move, clear path)
+
+A star sits on the same row.
+
+Pip:    I will walk it with style.
+Rhino:  No style. Hallway.
+Pip:    A little style.
+Rhino:  Ask.
+
+RIGHT
+The rook slides. No curve.
+Pip:    It did not dance.
+Rhino:  It does not dance.
+Pip:    I can dance for it.
+Rhino:  Later.
+
+WRONG — classified. Match the square.
+a slant:
+   Pip:    That is a beautiful slant.
+   Rhino:  Rooks do not slant.
+   Pip:    This one might.
+   Rhino:  It will not. Along the row.
+same row, not the star:
+   Rhino:  That is the hallway. That is not the star.
+   Pip:    I was warming up.
+   Rhino:  Stop on the star.
+off the row:
+   Rhino:  That is two jobs. Side and up.
+   Pip:    Talented.
+   Rhino:  The rook is not talented that way. One hallway.
+
+PLAIN LINE
+Rhino:  Same row. Straight. Stop on the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip aims the rook at a slant, lets go,
+and it slides down the row onto the star.
+
+Pip:    It ignored me.
+Rhino:  That is the one.
+Pip:    Hallway.
+Rhino:  Hallway.
+
+
+TAP 2 — Slide the rook to a star on the same column.
+
+Pip:    New hallway. Up.
+Rhino:  Up is still straight.
+Pip:    Up is ambitious.
+Rhino:  Up is up.
+
+RIGHT
+Pip:    It is good at up.
+Rhino:  And down. And sideways.
+Pip:    So many hallways.
+Rhino:  Four. That is enough.
+
+WRONG — classified. Match the square.
+a slant:
+   Pip:    I cut the corner. Corners are faster.
+   Rhino:  Corners are slants. Not for this one.
+same column, not the star:
+   Rhino:  That is the up hallway. Not the star.
+   Pip:    I got tired.
+   Rhino:  All the way to the star.
+off the column:
+   Rhino:  That square is not on this hallway.
+   Pip:    It is near the hallway.
+   Rhino:  Near is a different game.
+
+PLAIN LINE
+Rhino:  Same column. Straight to the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip pushes the rook “a little up for style.”
+It goes all the way up the column to the star.
+
+Pip:    A little up is a lot of up.
+Rhino:  That is the one.
+
+
+TAP 3 — Get to the star in two hallway moves. A blocker sits on the first idea.
+
+A small box sits in the way.
+
+Pip:    Excuse me, box.
+Rhino:  The box does not move.
+Pip:    Rude box.
+Rhino:  Go around. Still straight. Two walks.
+
+RIGHT
+Pip:    We used two hallways.
+Rhino:  That is allowed.
+Pip:    I invented around.
+Rhino:  Around is two straights.
+
+WRONG — classified. Match the square.
+through the box:
+   Pip:    Through the box.
+   Rhino:  Through is not a hallway.
+   Pip:    Through is a tunnel.
+   Rhino:  There is no tunnel. Go around.
+a slant around:
+   Rhino:  That was a slant around.
+   Pip:    Around is around.
+   Rhino:  Around, but square. Hallway, then hallway.
+somewhere else:
+   Pip:    I stared at the box until it left.
+   Rhino:  It did not leave.
+   Pip:    I stared politely.
+   Rhino:  Walk the long way.
+
+PLAIN LINE
+Rhino:  Not through. Sideways, then up.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip tries to stare the box away again.
+While staring, his other flipper slides the rook
+sideways, then up, onto the star.
+
+Pip:    I did not look at that.
+Rhino:  That is the one.
+Pip:    Around happened.
+Rhino:  Around happened.
+
+
+TAP 4 — Tap any square the rook can go to now.
+
+Pip:    I want to see all the hallways.
+Rhino:  Then pick one.
+Pip:    Picking is hard when you have four lives.
+Rhino:  Pick one square it can reach.
+
+RIGHT
+Pip:    I picked a hallway.
+Rhino:  A good hallway.
+Pip:    I am a hallway person now.
+Rhino:  Today.
+
+WRONG — classified. Match the square.
+a slant:
+   Pip:    That one is a slant hallway.
+   Rhino:  That is just a slant.
+   Pip:    You say that like it is bad.
+   Rhino:  For this piece, it is closed.
+a friendly piece:
+   Rhino:  A piece is sitting there. Same team.
+   Pip:    They can share.
+   Rhino:  They cannot share a square.
+blocked hallway:
+   Rhino:  Something is in that hallway.
+   Pip:    I did not see it.
+   Rhino:  A clear row or a clear column.
+
+PLAIN LINE
+Rhino:  A square on this row or this column. Nothing in the way.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip sits on a square to rest from picking.
+The square is on the rook’s row.
+
+Pip:    I sat by accident.
+Rhino:  That is the one.
+Pip:    A hallway square.
+Rhino:  A hallway square.
+
+
+CELEBRATION — The Hallway Train
+
+They make a train.
+The rook is the engine.
+Rhino is a car.
+Pip is a car who wants to be a car and also a bird.
+
+Pip:    Choo.
+Rhino:  That is the noise.
+Pip:    Choo choo slant.
+Rhino:  No.
+Pip:    Choo.
+Rhino:  Yes.
+
+They ride one row all the way to the end
+and have to get out because that is the end of the hallway.
+
+
+================================================================
+CHAPTER 4 — SAME COLOUR THE WHOLE WAY
+================================================================
+
+Quietly holding: the bishop moves diagonally and never changes colour.
+The joke: Pip finds a slant and will not leave it. Then he wants the other colour anyway.
+Taps: 4. Piece: bishop.
+Celebration: The Butter Slide.
+
+
+OPEN
+
+A bishop stands on a light square.
+Pip leans until he is a slant.
+
+Pip:    I have discovered slants.
+Rhino:  That piece lives on slants.
+Pip:    I live on slants now.
+Rhino:  You live on feet.
+Pip:    Slant feet.
+Rhino:  It is a bishop.
+         It stays on the colour it started on.
+Pip:    This one started fancy-not-fancy.
+Rhino:  Light.
+Pip:    I knew that.
+
+
+TAP 1 — Slide the bishop to the star on the same diagonal.
+
+RIGHT
+Pip:    We slanted.
+Rhino:  And stayed light.
+Pip:    Light slants are my new system.
+Rhino:  For this bishop. Yes.
+
+WRONG — classified. Match the square.
+a hallway:
+   Pip:    I used a hallway. Hallways are last week.
+   Rhino:  This one does not do hallways.
+   Pip:    It could learn.
+   Rhino:  It will not. Slant to the star.
+wrong slant:
+   Rhino:  That slant is the other way.
+   Pip:    Slants are slants.
+   Rhino:  This slant. This star.
+a jump:
+   Pip:    I jumped the slant as a shortcut.
+   Rhino:  No jumping. Slide on the colour.
+
+PLAIN LINE
+Rhino:  Diagonal. Same colour. Onto the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip leans until he falls.
+He falls along the slant.
+He stops on the star.
+
+Pip:    Gravity is a bishop.
+Rhino:  That is the one.
+
+
+TAP 2 — Tap a dark square. It should fail as a destination. Then tap a light one.
+
+Pip:    I want a dark one now.
+Rhino:  This bishop cannot.
+Pip:    I can want it.
+Rhino:  Wanting is free. Going is not.
+         Try.
+
+If they tap dark:
+use a WRONG from below, then ask for a light square the bishop can reach.
+
+RIGHT (a reachable light square)
+Pip:    So it is stuck being light.
+Rhino:  Not stuck. Chosen.
+Pip:    I did not choose.
+Rhino:  The bishop did. A long time ago.
+
+WRONG — classified. Match the square.
+a dark square:
+   Pip:    Dark would be a nice holiday.
+   Rhino:  This bishop does not holiday.
+   Pip:    Sad bishop.
+   Rhino:  Light bishop. Stay on light.
+a light square it cannot reach:
+   Rhino:  Light. But not this slant.
+   Pip:    Light should be enough.
+   Rhino:  Light, and a clear slant from here.
+a hallway:
+   Pip:    I will paint the square.
+   Rhino:  Please do not paint the floor.
+   Pip:    A little paint.
+   Rhino:  A light square it can reach.
+
+PLAIN LINE
+Rhino:  Same colour it is standing on.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip reaches for a dark square
+and his flipper lands on a light one the bishop can reach.
+
+Pip:    Wrong holiday.
+Rhino:  That is the one.
+Pip:    Light.
+Rhino:  Light.
+
+
+TAP 3 — Reach a star in two slants. A blocker on the first diagonal.
+
+Pip:    Box again.
+Rhino:  Box again.
+Pip:    I will slant around the box.
+Rhino:  Yes. Two slants.
+
+RIGHT
+Pip:    Around is slanty now.
+Rhino:  Around is two slants.
+Pip:    I am good at around.
+Rhino:  You are getting there.
+
+WRONG — classified. Match the square.
+through the box:
+   Pip:    Through.
+   Rhino:  Never through.
+   Pip:    Through is my brand.
+   Rhino:  Not on this floor.
+a hallway step:
+   Rhino:  That second step was a hallway.
+   Pip:    I mixed my weeks.
+   Rhino:  Slant. Then slant.
+somewhere else:
+   Pip:    I asked the box to lean.
+   Rhino:  The box did not lean.
+   Pip:    Did you see me ask.
+   Rhino:  I did. Go the other slant.
+
+PLAIN LINE
+Rhino:  Not through the box. Another diagonal.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip walks around the box to scold it
+and the bishop comes with him, two slants, onto the star.
+
+Pip:    The bishop followed me.
+Rhino:  That is the one.
+
+
+TAP 4 — Tap any square this bishop can reach.
+
+RIGHT
+Pip:    All of these are the light ones.
+Rhino:  The light ones it can see.
+Pip:    A family.
+Rhino:  A colour.
+
+WRONG — classified. Match the square.
+a dark square:
+   Pip:    That dark one looked lonely.
+   Rhino:  It is not this bishop’s lonely.
+blocked slant:
+   Rhino:  A piece is in the way.
+   Pip:    I did not see it. It is small.
+   Rhino:  It is still there.
+a hallway:
+   Pip:    I picked a hallway as a joke.
+   Rhino:  The bishop did not laugh.
+
+PLAIN LINE
+Rhino:  A light square on a clear slant.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip picks a square to lie down on.
+It is light. It is on a slant. It is empty.
+
+Pip:    I picked a nap.
+Rhino:  That is the one.
+
+
+CELEBRATION — The Butter Slide
+
+A giant piece of butter appears.
+It is a slant.
+
+Pip:    I knew slants would win.
+Rhino:  This is butter.
+Pip:    Winning butter.
+
+They slide.
+Rhino is not good at sliding.
+He arrives as a lump.
+Pip arrives as a cheer.
+
+Pip:    Again.
+Rhino:  Once is butter. Twice is a mess.
+Pip:    A fancy mess.
+
+
+================================================================
+CHAPTER 5 — BOTH
+================================================================
+
+Quietly holding: the queen moves like a rook and a bishop.
+The joke: Pip wants both at the same time and gets dizzy.
+Taps: 4. Piece: queen.
+Celebration: The Dizzy Snack.
+
+
+OPEN
+
+A queen stands in the middle.
+Pip stands next to it and vibrates.
+
+Pip:    What is this one.
+Rhino:  The queen.
+Pip:    Does she hallway.
+Rhino:  Yes.
+Pip:    Does she slant.
+Rhino:  Yes.
+Pip:    BOTH.
+Rhino:  Both.
+Pip:    I am going to be both.
+
+Pip hallways. Then slants. Then both at once.
+He falls over.
+
+
+TAP 1 — Move the queen to a star on a row.
+
+Pip:    I will do it as both, to be safe.
+Rhino:  You can do it as a hallway.
+Pip:    Both is safer.
+Rhino:  Both is dizzier.
+         Just the star.
+
+RIGHT
+Pip:    That was a hallway both.
+Rhino:  That was a hallway.
+Pip:    I added both in my mind.
+Rhino:  Your mind is very busy.
+
+WRONG — classified. Match the square.
+a new shape / an L:
+   Pip:    I did a new shape. A both-shape.
+   Rhino:  That shape is not a hallway and not a slant.
+   Pip:    It is a third thing.
+   Rhino:  The queen does not have a third thing.
+wrong hallway or slant:
+   Rhino:  That is a line she has. That is not the star.
+   Pip:    I added both in the wrong direction.
+   Rhino:  Along the row. To the star.
+through something:
+   Pip:    I spun her so she could see all jobs.
+   Rhino:  She can see them without spinning. Slide to the star.
+
+PLAIN LINE
+Rhino:  Straight to the star. Along the row.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip spins the queen “so she can see both.”
+She slides down the row and stops on the star.
+Pip sits down.
+
+Pip:    She chose hallway.
+Rhino:  That is the one.
+
+
+TAP 2 — Move the queen to a star on a diagonal.
+
+Pip:    Slant both.
+Rhino:  Slant is enough.
+
+RIGHT
+Pip:    I did not fall over that time.
+Rhino:  You did not move.
+Pip:    I fell over on the inside.
+Rhino:  Sit down on the inside.
+
+WRONG — classified. Match the square.
+a hallway:
+   Pip:    I hallways-ed it by mistake.
+   Rhino:  The star is on the slant.
+   Pip:    Stars should sit on both.
+   Rhino:  This star sat on one.
+wrong slant:
+   Rhino:  That square is not on her slant.
+   Pip:    It is on my slant.
+   Rhino:  Your slant is not a rule.
+a circle / an L:
+   Pip:    I sent her in a circle. Circles include slants.
+   Rhino:  Circles are not a job she has.
+
+PLAIN LINE
+Rhino:  Diagonal to the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip aims her at a hallway
+and she takes the slant instead, onto the star.
+
+Pip:    She picked.
+Rhino:  That is the one.
+
+
+TAP 3 — Reach a star that needs two queen moves. Blocker in the pretty way.
+
+Pip:    I will both around it.
+Rhino:  One both, then another both.
+Pip:    That is too many boths.
+Rhino:  Two moves.
+
+RIGHT
+Pip sits down hard.
+Pip:    I need a minute.
+Rhino:  You may have a minute.
+Pip:    Is the minute a hallway or a slant.
+Rhino:  It is a minute.
+
+WRONG — classified. Match the square.
+through the blocker:
+   Pip:    Through. Both includes through.
+   Rhino:  Both does not include through.
+three moves:
+   Rhino:  That is three moves.
+   Pip:    Both should make it shorter.
+   Rhino:  Both makes it wider. Not shorter.
+somewhere else:
+   Pip:    I asked the queen to be two queens.
+   Rhino:  We have one queen.
+   Pip:    Cheap game.
+   Rhino:  One queen. Two slides.
+
+PLAIN LINE
+Rhino:  One legal slide. Then another. Not through.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip lies down from too many boths.
+His flipper bumps the queen twice.
+She goes around the box and onto the star.
+
+Pip:    I both-ed from the floor.
+Rhino:  That is the one.
+
+
+TAP 4 — Tap any square the queen can reach.
+
+Pip:    Show me all of both.
+Rhino:  That is a lot of floor.
+Pip:    I can handle it.
+         Pip looks at the floor.
+Pip:    I cannot handle it.
+Rhino:  Pick one square.
+
+RIGHT
+Pip:    I picked one both.
+Rhino:  A good both.
+Pip:    I will lie down now.
+Rhino:  That is also a good both.
+
+WRONG — classified. Match the square.
+blocked line:
+   Pip:    That square is behind a piece.
+   Rhino:  Then she cannot sit there.
+an L:
+   Rhino:  That is an L. She does not hop.
+   Pip:    Both should hop. Both is everything.
+   Rhino:  Both is two things. Not everything.
+her own square:
+   Pip:    I picked the square she is on.
+   Rhino:  She already has that one. Pick a new one.
+
+PLAIN LINE
+Rhino:  A square on her row, column, or slant. Nothing in the way.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip covers his eyes and points.
+He is pointing at a square the queen can reach.
+
+Pip:    I did not look.
+Rhino:  That is the one.
+Pip:    Looking is dizzier.
+
+
+CELEBRATION — The Dizzy Snack
+
+The room spins once.
+A plate of crackers arrives.
+The crackers are shaped like plus signs and x signs.
+
+Pip:    Hallway crackers.
+Rhino:  And slant crackers.
+Pip:    BOTH crackers.
+Rhino:  You may eat one kind first.
+Pip:    I will eat both at once.
+
+He does.
+He lies down.
+He is happy.
+
+Rhino eats one plus.
+Then one x.
+In order.
+
+
+================================================================
+CHAPTER 6 — THE HEAVY HOPPER
+================================================================
+
+Quietly holding: the knight moves in an L and jumps over anything in the way.
+The joke: Pip hops. Rhino, who is heavy, studies the L and does not leave the ground.
+Taps: 5. Piece: knight. This one may use the full five.
+Celebration: The Sandwich Trampoline.
+
+
+OPEN
+
+A knight stands on the floor.
+Pip is already hopping.
+
+Pip:    This one hops.
+Rhino:  It hops in a letter.
+Pip:    S.
+Rhino:  L.
+Pip:    L is not a hop. L is a sit.
+Rhino:  Two steps one way. One step to the side.
+Pip:    I will do it.
+
+Pip hops an L. He lands.
+Rhino bends his knees.
+Rhino does not leave the floor.
+
+Rhino:  I am the looking one.
+Pip:    I am the hopping one.
+Rhino:  Please hop it for us.
+
+
+TAP 1 — Hop the knight to the only legal star. (one L)
+
+RIGHT
+Pip:    BOING.
+Rhino:  That is the sound.
+Pip:    I invented the sound.
+Rhino:  The knight invented the hop.
+Pip:    We can share.
+
+WRONG — classified. Match the square.
+a hallway:
+   Pip:    I hopped a hallway. Hallways are safe.
+   Rhino:  This one does not like safe. Two, then one.
+two and two:
+   Rhino:  That is two and two. That is a square.
+   Pip:    Squares are letters in some fonts.
+   Rhino:  Not this font. Two. Then one.
+somewhere else:
+   Pip:    I hopped a very small L. A lowercase l.
+   Rhino:  Still two squares, then one to the side.
+
+PLAIN LINE
+Rhino:  Two one way. One to the side. Onto the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip hops to show the L
+and lands on the star.
+
+Pip:    BOING.
+Rhino:  That is the one.
+Pip:    I was demonstrating.
+Rhino:  You were arriving.
+
+
+TAP 2 — Hop an L the other shape. (2 across, 1 up instead of 2 up, 1 across)
+
+Pip:    There is another L.
+Rhino:  The L can lie down.
+Pip:    Lazy L.
+Rhino:  Same L.
+
+RIGHT
+Pip:    Lying-down L. Still BOING.
+Rhino:  Still an L.
+Pip:    I like a letter that can nap.
+Rhino:  It is not napping. It is working.
+
+WRONG — classified. Match the square.
+the standing L, wrong star:
+   Pip:    I used the standing L again. I am loyal.
+   Rhino:  Loyalty is nice. The star wants the other L.
+three and one:
+   Rhino:  That is three and one. That is a tired L.
+   Pip:    It had a long day.
+   Rhino:  Two and one.
+somewhere else:
+   Pip:    I hopped in a circle to confuse the L.
+   Rhino:  The L is not confused. We are.
+
+PLAIN LINE
+Rhino:  Two across. One up. The star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip lies the L down to nap it.
+The knight lies down with him
+and lands on the star.
+
+Pip:    Lazy L.
+Rhino:  That is the one.
+
+
+TAP 3 — Hop over a row of blockers to the star.
+
+Boxes stand in the way. Many boxes.
+
+Pip:    Excuse me, boxes.
+Rhino:  They do not have to move.
+Pip:    Why.
+Rhino:  This one jumps.
+Pip:    I KNEW it was the best one.
+
+RIGHT
+Pip:    We went over.
+Rhino:  Over is allowed. For this one.
+Pip:    Over should be allowed for me.
+Rhino:  You may hop beside it. Not on the boxes.
+
+WRONG — classified. Match the square.
+a slide through:
+   Pip:    I slid through. Old habit.
+   Rhino:  No sliding. Hop the L. Over is fine.
+landed on a box:
+   Rhino:  You landed on a box.
+   Pip:    The box can hold me.
+   Rhino:  The box is full. Land on the star.
+a straight jump:
+   Pip:    I jumped straight over like a hero.
+   Rhino:  Hero is not a letter. L is a letter.
+
+PLAIN LINE
+Rhino:  The L. Land on the star. The boxes can stay.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip hops over the boxes to see if over is real.
+It is real. He is on the star.
+
+Pip:    Over works.
+Rhino:  That is the one.
+
+
+TAP 4 — From here, tap a square the knight can land on.
+
+RIGHT
+Pip:    It always lands on the other colour.
+Rhino:  It does.
+Pip:    So it is friends with both.
+Rhino:  In turns.
+
+WRONG — classified. Match the square.
+two away:
+   Pip:    That square is two away. Almost an L.
+   Rhino:  Almost is not an L.
+a slant:
+   Rhino:  That is a slant. Different piece.
+   Pip:    I have a lot of pieces in my head.
+   Rhino:  One piece on the floor.
+its own square:
+   Pip:    I picked the square it is on.
+   Rhino:  It already has that one. Pick a new L.
+
+PLAIN LINE
+Rhino:  Two and one. Other colour.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip counts two, then one, on his flippers
+and the knight copies him.
+
+Pip:    I was counting.
+Rhino:  That is the one.
+
+
+TAP 5 — Two hops to the star.
+
+Pip:    Two BOINGS.
+Rhino:  Two L’s.
+Pip:    I will nap between them.
+Rhino:  Short nap.
+
+RIGHT
+Pip:    That was two letters.
+Rhino:  One letter, twice.
+Pip:    I am a writer now.
+Rhino:  You are a hopper.
+
+WRONG — classified. Match the square.
+one giant hop:
+   Pip:    I did one giant L. A capital L for the whole trip.
+   Rhino:  Two small L’s.
+second hop was not an L:
+   Rhino:  First hop was good. Second hop was a hallway.
+   Pip:    I got tired of hopping.
+   Rhino:  One more L.
+off the floor:
+   Pip:    I hopped off the floor.
+   Rhino:  Stay on the floor. Two L’s to the star.
+
+PLAIN LINE
+Rhino:  One L. Then another L. Stop on the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip takes the first L to rest.
+He takes the second L to rest better.
+He is on the star.
+
+Pip:    Two naps.
+Rhino:  That is the one.
+Pip:    Two letters.
+Rhino:  Two letters.
+
+
+CELEBRATION — The Sandwich Trampoline
+
+A trampoline arrives.
+It is also a sandwich.
+
+Pip:    I will hop.
+Rhino:  I will look.
+Pip:    You have to hop. It is bread. Bread is for everyone.
+Rhino:  I will stand on it.
+
+Rhino stands on the sandwich.
+The sandwich goes down.
+The sandwich comes up a little.
+Rhino travels one thumb.
+
+Pip:    That was an L.
+Rhino:  That was gravity.
+Pip:    Gravity is an L if you believe.
+
+They eat the corner of the trampoline that is pickle.
+
+
+================================================================
+CHAPTER 7 — ONE STEP
+================================================================
+
+Quietly holding: the king moves one square any direction.
+The joke: Pip wants the important one to dash. It will not.
+Taps: 4. Piece: king.
+Celebration: One Giant Step.
+
+
+OPEN
+
+Rhino holds the king the way he holds a cup.
+Pip pokes it.
+
+Pip:    This one looks tired.
+Rhino:  This one is the king.
+Pip:    Kings dash.
+Rhino:  This king steps.
+         One step.
+         Any way.
+         Then he thinks.
+Pip:    I will think for him.
+Rhino:  He is slow on purpose.
+
+
+TAP 1 — Move the king one square onto the star. (adjacent)
+
+RIGHT
+Pip:    That was not a dash.
+Rhino:  It was a step.
+Pip:    I can blink faster than that.
+Rhino:  Blinking is not moving.
+
+WRONG — classified. Match the square.
+two squares:
+   Pip:    I dashed him two squares. A kingly dash.
+   Rhino:  Two is two. He does one.
+an L:
+   Rhino:  That is an L.
+   Pip:    Kings should hop. They have crowns. Crowns bounce.
+   Rhino:  Crowns do not bounce. One step.
+somewhere else:
+   Pip:    I sent him to the star as a feeling.
+   Rhino:  Send him one square toward the star.
+
+PLAIN LINE
+Rhino:  One square. Onto the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip pokes the king “just a little.”
+The king steps one square onto the star.
+
+Pip:    A poke is a step.
+Rhino:  That is the one.
+
+
+TAP 2 — Reach a star two squares away. Two steps.
+
+Pip:    Now he may dash. The star is late.
+Rhino:  Now he steps twice.
+Pip:    Twice is a dash if you say it fast.
+Rhino:  We will not say it fast.
+
+RIGHT
+Pip:    Step. Step.
+Rhino:  That is the whole job.
+Pip:    I could do this job.
+Rhino:  You would add a third step.
+Pip:    I would add a flip.
+
+WRONG — classified. Match the square.
+a dash of two at once:
+   Pip:    One dash. I saved a step.
+   Rhino:  You cannot save steps. You take them.
+a second step that is too big:
+   Rhino:  That second step was two squares.
+   Pip:    He got excited.
+   Rhino:  He does not get excited with his feet.
+a circle:
+   Pip:    I moved him in a circle to warm up.
+   Rhino:  Warm is fine. Then one, then one, onto the star.
+
+PLAIN LINE
+Rhino:  One square at a time. Stop on the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip sighs two times.
+The king steps two times.
+He is on the star.
+
+Pip:    I sighed him there.
+Rhino:  That is the one.
+
+
+TAP 3 — Step any direction onto a marked ring. (show all 8)
+
+Pip:    Any way.
+Rhino:  Any way. One.
+Pip:    Even backward.
+Rhino:  Even backward.
+Pip:    Kings can leave.
+Rhino:  Kings can step.
+
+RIGHT
+Pip:    He went that way.
+Rhino:  That is a way.
+Pip:    I thought there would be a speech.
+Rhino:  No speech. One step.
+
+WRONG — classified. Match the square.
+two squares away:
+   Rhino:  That square is two away.
+   Pip:    Any way is a long way.
+   Rhino:  Any way, one square.
+two rings at once:
+   Pip:    I picked two ways so he could choose.
+   Rhino:  He needs one square.
+the crown:
+   Pip:    I tapped the crown.
+   Rhino:  The crown is not a square.
+
+PLAIN LINE
+Rhino:  Any of the squares touching him.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip turns in a circle to show “any way.”
+He stops on a ring next to the king.
+
+Pip:    Any way includes me.
+Rhino:  That is the one.
+
+
+TAP 4 — Walk the king to a far star in a few steps. Count them.
+
+A star sits three or four squares away.
+Pip:    This will take all day.
+Rhino:  This will take four steps.
+Pip:    Wake me.
+Rhino:  No.
+
+RIGHT
+Pip:    We arrived. I aged.
+Rhino:  You did not age.
+Pip:    Inside I aged.
+Rhino:  The king did not.
+
+WRONG — classified. Match the square.
+a shortcut jump:
+   Pip:    Shortcut.
+   Rhino:  No shortcut. Neighbour squares only.
+a path with a jump in it:
+   Rhino:  That path is fine until that jump.
+   Pip:    The jump was a gift.
+   Rhino:  Return the gift.
+a different piece:
+   Pip:    I moved a different piece. It was faster.
+   Rhino:  Today is the king.
+
+PLAIN LINE
+Rhino:  One square each time. Keep going to the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip walks the king like a very slow parade.
+Step. Step. Step. Star.
+
+Pip:    The parade arrived.
+Rhino:  That is the one.
+
+
+CELEBRATION — One Giant Step
+
+A little flag appears one Rhino-step away.
+It says MOON.
+It is not the moon.
+It is a flag that says moon.
+
+Pip:    We are going to the moon.
+Rhino:  We are going one step.
+Pip:    The moon is one step if the moon is close.
+Rhino:  The moon is not close.
+Pip:    Today it is.
+
+They step once.
+They plant the flag in a sandwich.
+They sit on the moon, which is the floor.
+
+Pip:    One small step for a penguin.
+Rhino:  One normal step for a rhinoceros.
+
+
+================================================================
+CHAPTER 8 — ONLY FORWARD
+================================================================
+
+Quietly holding: a pawn moves forward one square. First move may be two. It cannot go back.
+The joke: Pip loves the little one. He tries to reverse. He meets Rhino’s foot.
+Taps: 4. Piece: pawn. No capturing yet.
+Celebration: The Forward Parade.
+
+
+OPEN
+
+A small pawn stands on the second row.
+Pip picks it up and hugs it.
+
+Pip:    This one is my size.
+Rhino:  That is a pawn.
+Pip:    A Pip.
+Rhino:  A pawn.
+Pip:    We can agree later.
+         What does it do.
+Rhino:  It goes forward.
+         One square.
+         Sometimes two, the first time.
+         Never back.
+Pip:    Never is a big word.
+Rhino:  Never is the word.
+
+
+TAP 1 — Move the pawn one square forward onto the star.
+
+RIGHT
+Pip:    Forward. I like forward.
+Rhino:  That is the whole walk.
+Pip:    I will walk it to the sun.
+Rhino:  The sun is not a square.
+
+WRONG — classified. Match the square.
+back:
+   Pip:    I went back. I forgot something.
+   Rhino:  Pawns do not forget. They do not go back.
+sideways:
+   Rhino:  That is sideways.
+   Pip:    Sideways is a kind of forward if you turn your head.
+   Rhino:  Do not turn your head. Forward.
+a slant:
+   Pip:    I slanted. Slants are friendly.
+   Rhino:  Slants are not for walking. Not this one.
+
+PLAIN LINE
+Rhino:  Straight ahead. One square. Onto the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip hugs the pawn forward
+and it slides one square onto the star.
+
+Pip:    That was a hug.
+Rhino:  That is the one.
+
+
+TAP 2 — First-move two squares, onto the far star.
+
+Pip:    Today it may dash.
+Rhino:  Today it may take two. Once.
+Pip:    A tiny dash.
+Rhino:  A first-day dash.
+
+RIGHT
+Pip:    Two. I am proud.
+Rhino:  Only this once, from home.
+Pip:    What if it goes home and comes back.
+Rhino:  It cannot go home.
+
+WRONG — classified. Match the square.
+three squares:
+   Pip:    I took three. Growth.
+   Rhino:  Two is the max. From this row.
+only one, missing the star:
+   Rhino:  That was one, which is fine, but the star is two.
+   Pip:    I was being careful.
+   Rhino:  Be careful on the star.
+left or right:
+   Pip:    I went forward and a bit left. Style.
+   Rhino:  No left. Forward.
+
+PLAIN LINE
+Rhino:  One or two squares straight ahead. This star is two.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip tells the pawn it may dash once.
+The pawn takes two.
+It is on the star.
+
+Pip:    A tiny dash.
+Rhino:  That is the one.
+
+
+TAP 3 — The pawn is blocked. Tap the square it can actually go to. (or wait)
+
+A box sits in front of the pawn.
+
+Pip:    Excuse me.
+Rhino:  The box does not hear pawns.
+Pip:    I will go around.
+Rhino:  Pawns do not go around.
+Pip:    What do they do.
+Rhino:  They wait. Or they stay.
+
+RIGHT
+If the only legal idea is “no forward,” let them tap the pawn to say it stays.
+Or offer a second pawn that can walk.
+
+Pip:    Waiting is a job.
+Rhino:  Waiting is a job.
+Pip:    I am bad at this job.
+Rhino:  You may hop in place.
+
+WRONG — classified. Match the square.
+through the box:
+   Pip:    Through the box.
+   Rhino:  No through.
+around:
+   Rhino:  Around is a different piece.
+   Pip:    I will lend it a rook.
+   Rhino:  Do not lend it a rook. It is a pawn.
+back:
+   Pip:    Back up and try again.
+   Rhino:  No back.
+
+PLAIN LINE
+Rhino:  If something is in front, this one stays.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip waits next to the pawn.
+The pawn also waits.
+Pip taps the pawn as if to say stay.
+
+Pip:    We waited.
+Rhino:  That is the one.
+
+
+TAP 4 — Walk a pawn forward three times to a star. Never back.
+
+Pip:    A trip.
+Rhino:  A short trip. Always the same way.
+Pip:    What if I miss a shop.
+Rhino:  There are no shops behind you.
+
+RIGHT
+Pip:    We made it. I did not look back.
+Rhino:  Good.
+Pip:    I looked back a little.
+Rhino:  The pawn did not.
+
+WRONG — classified. Match the square.
+back:
+   Pip:    I reversed to wave.
+   Rhino:  No waving with feet.
+a slant:
+   Rhino:  That was a slant walk.
+   Pip:    I was greeting the side.
+   Rhino:  Greet with a flipper. Walk forward.
+math with back steps:
+   Pip:    Two back, three forward. Math.
+   Rhino:  No back. Only forward to the star.
+
+PLAIN LINE
+Rhino:  Forward. Forward. Forward. Stop on the star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip refuses to look back.
+The pawn, with nothing else to do, goes forward
+until it is on the star.
+
+Pip:    I did not peek.
+Rhino:  That is the one.
+
+
+CELEBRATION — The Forward Parade
+
+A parade arrives.
+It can only go forward.
+A drum. A small flag. A sandwich on a stick.
+
+Pip:    What if I dropped my hat behind me.
+Rhino:  The hat is gone.
+Pip:    I loved that hat.
+Rhino:  There will be another hat. Ahead.
+
+They march one square.
+They march one square.
+They march one square.
+They eat the sandwich.
+They do not turn around to thank the drum.
+The drum understands.
+
+
+================================================================
+CHAPTER 9 — THAT SEAT IS MINE
+================================================================
+
+Quietly holding: you capture by landing on an enemy piece. It leaves the floor.
+The joke: Pip thinks they are sharing. They are not. He is thrilled and a little sorry.
+Taps: 4. Mixed pieces, simple captures.
+Celebration: The Going-Away Party.
+
+
+OPEN
+
+A white rook faces a dark pawn on the same row.
+Pip waves at the pawn.
+
+Pip:    Hello little one.
+Rhino:  That little one is in the way.
+Pip:    They can sit together.
+Rhino:  They cannot sit together.
+         If you land there, the other one leaves.
+Pip:    Leaves.
+Rhino:  Leaves the floor.
+Pip:    On a trip.
+Rhino:  Off the game.
+Pip:    That is a very big leave.
+
+
+TAP 1 — Take the pawn with the rook.
+
+RIGHT
+The pawn pops off.
+Pip holds it.
+Pip:    Bye.
+         I am a little sorry.
+         I am a little not sorry.
+Rhino:  Both is fine.
+Pip:    I will visit it.
+Rhino:  It will be on the side. You may wave.
+
+WRONG — classified. Match the square.
+stopped next to it:
+   Pip:    I stopped next to it. To share.
+   Rhino:  Sharing is not the game. Land on it.
+a slant:
+   Rhino:  That is a slant. This rook does not slant.
+   Pip:    I wanted a soft take.
+   Rhino:  Takes are just landings.
+empty talk:
+   Pip:    I asked it to leave with my words.
+   Rhino:  Words do not take pieces. Landing does.
+
+PLAIN LINE
+Rhino:  Slide onto its square.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip leans in to say bye early.
+The rook slides in with him
+and lands on the pawn.
+
+Pip:    Bye happened.
+Rhino:  That is the one.
+
+
+TAP 2 — A bishop takes a piece on a diagonal.
+
+Pip:    Slant take.
+Rhino:  Same idea. Land there.
+
+RIGHT
+Pip:    Gone.
+Rhino:  Gone.
+Pip:    I will not look at the side.
+         Pip looks at the side.
+Pip:    I looked.
+Rhino:  That is allowed.
+
+WRONG — classified. Match the square.
+our own piece:
+   Pip:    I took a friend piece. It looked tasty.
+   Rhino:  Friends stay. Only the other team leaves.
+stopped short:
+   Rhino:  You stopped short.
+   Pip:    I got shy.
+   Rhino:  Land on it.
+a hallway:
+   Pip:    I hallways-ed. Old week.
+   Rhino:  This one slants onto the piece.
+
+PLAIN LINE
+Rhino:  Onto their square. Same slant.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip slants to wave.
+The bishop slants with the wave
+and lands on the piece.
+
+Pip:    That wave had a landing.
+Rhino:  That is the one.
+
+
+TAP 3 — A pawn takes. It must slant to take, not walk forward.
+
+A dark piece sits on the diagonal in front of the pawn.
+A star sits forward, empty.
+
+Pip:    Forward take.
+Rhino:  Forward is walking.
+         Taking is a little slant.
+Pip:    The little one slants now.
+Rhino:  Only to take.
+
+RIGHT
+Pip:    Forward to walk. Slant to take.
+Rhino:  Yes.
+Pip:    That is two jobs. That is a queen.
+Rhino:  That is a pawn. Two small jobs.
+
+WRONG — classified. Match the square.
+forward onto empty:
+   Pip:    I walked forward onto empty. I missed them.
+   Rhino:  To take, step onto them. The slant.
+empty slant:
+   Rhino:  That slant had nobody on it.
+   Pip:    I was practicing the slant.
+   Rhino:  Practice on the piece.
+back:
+   Pip:    I took backward. I regretted the take.
+   Rhino:  No back. Slant forward onto them.
+
+PLAIN LINE
+Rhino:  One step forward-and-side. Onto the other piece.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip tries a forward take, misses,
+and the pawn’s foot slips one slant onto the piece.
+
+Pip:    A slip take.
+Rhino:  That is the one.
+Pip:    Forward to walk. Slant to take.
+Rhino:  You slipped into the rule.
+
+
+TAP 4 — Choose a take. Two pieces can take something. Pick one.
+
+Pip:    I do not want to pick.
+Rhino:  Picking is the game now.
+Pip:    What if I take both.
+Rhino:  One landing. One leave.
+
+RIGHT
+Pip:    I picked.
+Rhino:  You picked.
+Pip:    I am powerful and a little sad.
+Rhino:  That is a good way to be on this floor.
+
+WRONG — classified. Match the square.
+next to both:
+   Pip:    I moved next to both. A group hug.
+   Rhino:  No hug. Land on one.
+a piece that cannot take:
+   Rhino:  That piece cannot reach that take.
+   Pip:    I believed in it.
+   Rhino:  Believe in the one that can land there.
+our own piece:
+   Pip:    I took our own rook. It looked tired.
+   Rhino:  Tired stays. Other team only.
+
+PLAIN LINE
+Rhino:  Pick one. Land on the other team.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip cannot pick, so he sits on one of the two takes.
+The piece under him is the other team.
+
+Pip:    I sat on a choice.
+Rhino:  That is the one.
+
+
+CELEBRATION — The Bench
+
+The taken pieces sit on the side.
+Pip builds them a bench.
+The bench is crooked.
+
+Pip:    I will build a better one.
+Rhino:  That one is also crooked.
+Pip:    It is crooked on purpose now.
+
+Rhino sits on it to test it.
+It holds.
+
+One balloon says BYE.
+The balloon floats up.
+Pip waves until it is a dot.
+The pieces sit on the bench.
+The floor is quieter.
+
+(The bench recurs. From here on, taken pieces have somewhere to sit.)
+
+
+================================================================
+CHAPTER 10 — THE OTHER SIDE
+================================================================
+
+Quietly holding: a pawn that reaches the far row becomes a new piece. Usually a queen.
+The joke: Pip is sure it becomes a fish.
+Taps: 4.
+Celebration: The Almost Fish.
+
+
+OPEN
+
+A pawn stands near the far side.
+Pip is vibrating again.
+
+Pip:    It is going to the other side.
+Rhino:  Yes.
+Pip:    Then it becomes a fish.
+Rhino:  It does not become a fish.
+Pip:    A tall fish.
+Rhino:  A queen. Usually a queen.
+Pip:    That is a terrible surprise.
+Rhino:  That is a good surprise.
+Pip:    I wanted fins.
+
+
+TAP 1 — Walk the pawn to the last row. (one or two steps)
+
+RIGHT
+The pawn arrives.
+It waits.
+Pip waits harder.
+
+Pip:    Fish.
+Rhino:  Not yet. First it has to get there. It got there.
+Pip:    Now fish.
+Rhino:  Now we choose.
+
+WRONG — classified. Match the square.
+off the floor:
+   Pip:    I slanted to a fish shop off the floor.
+   Rhino:  Stay on the floor. Forward. Last row.
+back toward home:
+   Rhino:  That is the wrong way. That is home.
+   Pip:    Home might have a fish.
+   Rhino:  Home has no change. Go to the far row.
+a hop:
+   Pip:    I hopped it. Faster fish.
+   Rhino:  Pawns do not hop. Walk.
+
+PLAIN LINE
+Rhino:  Forward. Onto the last row.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip walks the pawn to look for fins.
+There are no fins.
+There is the last row.
+
+Pip:    No fish.
+Rhino:  That is the one.
+
+
+TAP 2 — Choose what it becomes. Queen is the star. Other pieces are allowed, but the story pushes queen.
+
+Four pictures appear: queen, rook, bishop, knight.
+No fish. Pip looks under the pictures.
+
+Pip:    I cannot find the fish.
+Rhino:  There is no fish.
+Pip:    I will pick the tallest one. That is almost a fish.
+
+RIGHT (queen)
+The queen arrives.
+Pip stares.
+Pip:    Fine.
+         Better.
+         Still not a fish.
+Rhino:  She can hallway and slant.
+Pip:    Fins would have been enough.
+
+WRONG — classified. Match the tap.
+the empty air:
+   Pip:    I tapped the empty air. For the fish.
+   Rhino:  The air is not a piece. Pick one of these four.
+knight or rook or bishop:
+   Rhino:  That is fine if you want that one. The star is the queen.
+   Pip:    It has a face like a fish if you squint.
+   Rhino:  Do not squint. Take the queen.
+two at once:
+   Pip:    I picked two. Queen and fish.
+   Rhino:  One.
+
+PLAIN LINE
+Rhino:  Tap the queen.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip looks under the four pictures for a fish.
+He does not find a fish.
+His flipper is on the queen.
+
+Pip:    Tallest.
+Rhino:  That is the one.
+
+
+TAP 3 — Use the new queen to take something nearby.
+
+Pip:    Does she take like a fish.
+Rhino:  She takes like a queen.
+         Land on them.
+
+RIGHT
+Pip:    Gone.
+         A queen did that.
+         A fish could not do that.
+         I guess.
+Rhino:  A fish would be wet.
+
+WRONG — classified. Match the square.
+pawn walk:
+   Pip:    I walked her like a pawn. Habit.
+   Rhino:  She is not a pawn now. Hallway or slant.
+empty square:
+   Rhino:  That square is empty. The take is the other square.
+   Pip:    I was showing her the room.
+   Rhino:  Show her the piece.
+back to a pawn:
+   Pip:    I turned her back into a pawn. For memory.
+   Rhino:  No back. She stays a queen.
+
+PLAIN LINE
+Rhino:  Move the queen onto their piece.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip shows the new queen the room
+and stops her on the piece that has to leave.
+
+Pip:    Room tour over.
+Rhino:  That is the one.
+
+
+TAP 4 — Another pawn, almost there. Finish and become a queen again.
+
+Pip:    Second fish.
+Rhino:  Second queen.
+Pip:    We can have a fish later.
+Rhino:  We can have ice cream later.
+Pip:    That is not the same.
+
+RIGHT
+Pip:    Two queens.
+Rhino:  Two queens.
+Pip:    I am rich in queens and poor in fish.
+Rhino:  Yes.
+
+WRONG — classified. Match the square.
+stopped on seven:
+   Pip:    I stopped on the seventh row. To think about fish.
+   Rhino:  Think on the last row.
+sideways:
+   Rhino:  You took sideways. Pawns do not.
+   Pip:    It was almost a queen. I gave it queen habits early.
+   Rhino:  Walk forward first.
+ice cream:
+   Pip:    I promoted it to ice cream.
+   Rhino:  Not a piece. Queen.
+
+PLAIN LINE
+Rhino:  Last row. Then the queen.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip marches the second pawn “to the fish shop.”
+The shop is the last row.
+Then his flipper lands on the queen again.
+
+Pip:    Still not a fish.
+Rhino:  That is the one.
+
+
+CELEBRATION — The Almost Fish
+
+A fish arrives.
+It is a cracker.
+It is shaped like a fish.
+
+Pip:    I KNEW it.
+Rhino:  It is a snack.
+Pip:    A snack fish. Close enough.
+
+They eat the fish.
+Pip saves the tail.
+He puts the tail on the queen.
+It falls off.
+
+Pip:    She does not want fins.
+Rhino:  She wants slants.
+Pip:    I want both.
+Rhino:  You always want both.
+Pip:    I am consistent.
+
+
+================================================================
+CHAPTER 11 — STAY THERE
+================================================================
+
+Quietly holding: check means the king is attacked. You must deal with it now.
+The joke: Rhino wears a paper crown and freezes with a polite smile.
+Taps: 4.
+Celebration: Statues With Hats.
+
+
+OPEN
+
+Rhino wears a paper crown.
+It keeps sliding down his horn.
+Pip puts it back.
+
+Pip:    You are the king now.
+Rhino:  I am Rhino with paper.
+Pip:    Same thing.
+
+A rook looks at Rhino from down the row.
+Pip gasps a very small gasp.
+
+Pip:    That one is looking at you.
+Rhino:  I will ignore it.
+Pip:    You cannot ignore it.
+Rhino:  I am polite. I can ignore many things.
+Pip:    Not this.
+
+
+TAP 1 — Tap the king. He is the one in trouble.
+
+RIGHT
+Rhino freezes.
+He keeps the smile.
+Rhino:  I am being looked at.
+Pip:    Stay there.
+         Do not pretend you are a tree.
+Rhino:  I was going to be a tree.
+Pip:    Later.
+
+WRONG — classified. Match the tap.
+the looker:
+   Pip:    I tapped the rook. Shame on the rook.
+   Rhino:  First tap the king. He is the one in trouble.
+the crown:
+   Rhino:  That is my crown. The crown is not in trouble. I am.
+   Pip:    The crown looks fine.
+   Rhino:  Tap me. The king.
+a pawn:
+   Pip:    I tapped a pawn. Pawns understand trouble.
+   Rhino:  This trouble is for the king.
+
+PLAIN LINE
+Rhino:  Tap the king.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip puts the paper crown on straight
+and his flipper is on the king.
+
+Pip:    I was fixing a hat.
+Rhino:  That is the one.
+
+
+TAP 2 — The king has a safe step. Take it.
+
+A star sits on a safe square next to the king.
+
+Pip:    You may leave.
+Rhino:  Leaving is a step.
+Pip:    One step. You know this.
+Rhino:  I liked my old square.
+Pip:    Your old square is being looked at.
+
+RIGHT
+Rhino steps.
+The crown falls off.
+Pip puts it back.
+
+Pip:    Not looked at.
+Rhino:  Not looked at.
+Pip:    You may un-freeze.
+Rhino:  I will un-freeze slowly.
+
+WRONG — classified. Match the square.
+still looked at:
+   Pip:    I stepped him closer to the look.
+   Rhino:  That square is still looked at. A quiet square.
+two steps:
+   Rhino:  That is two steps.
+   Pip:    Trouble makes people dash.
+   Rhino:  Not this king.
+the crown:
+   Pip:    I took the crown off so nobody could look at a king.
+   Rhino:  The crown is paper. Move the king.
+
+PLAIN LINE
+Rhino:  One step to the star. Off the line.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Rhino steps to keep the crown from falling.
+He steps onto the star.
+
+Pip:    The hat moved you.
+Rhino:  That is the one.
+
+
+TAP 3 — A new look. This time tap the attacker. (the child will take it with a piece that can)
+
+Pip:    Looked at again.
+Rhino:  I am very popular.
+Pip:    You are very looked at.
+         We can make the looker leave.
+
+RIGHT
+The looker leaves the floor.
+Pip:    No look.
+Rhino:  No look.
+Pip:    I am a little sorry.
+         Only a little.
+
+WRONG — classified. Match the square.
+moved the king instead:
+   Pip:    I moved the king again. I like walking him.
+   Rhino:  You can. Or you can take the looker. The star is the take.
+a piece that cannot take:
+   Rhino:  That piece cannot reach the looker.
+   Pip:    It reached with its mind.
+   Rhino:  Minds do not take. Land on it.
+a wave:
+   Pip:    I waved. Maybe the looker will blink.
+   Rhino:  The looker will not blink. Take it.
+
+PLAIN LINE
+Rhino:  Land on the piece that is looking at the king.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip goes to tell the looker to blink
+and lands on it.
+
+Pip:    I was talking.
+Rhino:  That is the one.
+Pip:    Talking landed.
+
+
+TAP 4 — Find which king is being looked at. Two kings on a demo board. Tap the one in trouble.
+
+Pip:    Two paper crowns.
+Rhino:  Only one is in trouble.
+Pip:    I am in trouble. I have to pick.
+
+RIGHT
+Pip:    That one.
+Rhino:  That one.
+Pip:    I am getting good at looking for looking.
+Rhino:  That is the whole game inside the game.
+
+WRONG — classified. Match the tap.
+the safe king:
+   Pip:    I tapped the safe one. He looked lonely.
+   Rhino:  Lonely is not looked-at. The other king.
+a queen:
+   Rhino:  That is a queen. Tall. Not a king.
+   Pip:    Tall trouble.
+   Rhino:  Crown. Short steps. That one.
+both:
+   Pip:    I tapped both. Fair.
+   Rhino:  One is in trouble. Tap that one.
+
+PLAIN LINE
+Rhino:  The king on the line of the rook.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip walks to the lonely king to keep him company,
+sees the line,
+and turns to the other crown.
+
+Pip:    That one is the trouble.
+Rhino:  That is the one.
+
+
+CELEBRATION — Statues With Hats
+
+They freeze.
+They put hats on.
+Rhino’s hat is the paper crown.
+Pip’s hat is a bucket.
+
+Pip:    Are we safe.
+Rhino:  We are statues.
+Pip:    Do statues get looked at.
+Rhino:  Yes. But they do not have to move.
+Pip:    Best job.
+
+They stay frozen.
+A bird lands on Rhino’s hat.
+Rhino does not mention it until later.
+Later he mentions it a lot.
+
+
+================================================================
+CHAPTER 12 — THREE WAYS OUT
+================================================================
+
+Quietly holding: get out of check by moving the king, blocking, or capturing the attacker.
+The joke: Pip makes a list and reads it like a menu. He wants all three at once.
+Taps: 4.
+Celebration: The Tiny House With Three Doors.
+
+
+OPEN
+
+Rhino has the paper crown again.
+A bishop looks at him from far away.
+
+Pip:    I made a list.
+Rhino:  Of course you did.
+Pip:    Three ways out.
+         One. Run.
+         Two. Put someone in the way.
+         Three. Make the looker leave.
+Rhino:  That is the list.
+Pip:    I will do all three.
+Rhino:  You will do one.
+Pip:    All three is safer.
+Rhino:  All three is a mess.
+
+
+TAP 1 — The only way out is to move the king. Do that.
+
+RIGHT
+Pip:    Run.
+Rhino:  Step.
+Pip:    On my list it says run.
+Rhino:  Your list can say run. His feet say step.
+
+WRONG — classified. Match the square.
+a block that cannot get there:
+   Pip:    I blocked with a pawn that cannot get there.
+   Rhino:  That way is not open. Move the king.
+a take that cannot happen:
+   Rhino:  I cannot take that bishop. Too far.
+   Pip:    So we ask it to leave.
+   Rhino:  We step away.
+all three in the head:
+   Pip:    I did all three in my head.
+   Rhino:  Do one on the floor. The king to the star.
+
+PLAIN LINE
+Rhino:  The king moves. The star.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip reads “run” off the list so loudly
+that Rhino steps onto the star.
+
+Pip:    The list pushed you.
+Rhino:  That is the one.
+
+
+TAP 2 — The only way out is to block.
+
+A rook is looking down a long hallway.
+A piece can step between.
+
+Pip:    Door number two.
+Rhino:  Someone in the way.
+Pip:    I will stand in the way.
+Rhino:  You are not a piece.
+Pip:    I am a kind of piece.
+Rhino:  You are a penguin.
+
+RIGHT
+Pip:    Blocked.
+Rhino:  Blocked.
+Pip:    I did not get to stand there.
+Rhino:  Thank you for not standing there.
+
+WRONG — classified. Match the square.
+ran the king into a looked-at square:
+   Pip:    I ran the king. That square is still looked at.
+   Rhino:  Today the way out is the block. The star.
+a block off the line:
+   Rhino:  That block does not cover the line.
+   Pip:    It covers my feelings.
+   Rhino:  Cover the line.
+a random take:
+   Pip:    I took a different piece. For luck.
+   Rhino:  Luck is not on the list. Block.
+
+PLAIN LINE
+Rhino:  Put our piece on the star. Between the looker and the king.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip tries to stand in the way.
+He does not fit.
+The piece that does fit is on the star.
+
+Pip:    Someone else did my job.
+Rhino:  That is the one.
+
+
+TAP 3 — The only way out is to take the attacker.
+
+Pip:    Door number three.
+         The leaving door.
+Rhino:  Take the looker.
+Pip:    I am a little sorry again.
+Rhino:  You can be sorry after the tap.
+
+RIGHT
+Pip:    Left the floor.
+Rhino:  List complete.
+Pip:    I still want to do all three.
+Rhino:  Not today.
+
+WRONG — classified. Match the square.
+a block that does not work:
+   Pip:    I blocked. There is no block that works here.
+   Rhino:  Take them.
+the king taking too far:
+   Rhino:  The king cannot take that. Too far, and looked after.
+   Pip:    Then a different taker.
+   Rhino:  Yes. That one. Onto the looker.
+some other piece:
+   Pip:    I moved a piece that was not on the list.
+   Rhino:  The list is short. Take the looker.
+
+PLAIN LINE
+Rhino:  Land on the piece that is looking.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip goes to be sorry first.
+He is sorry on the looker’s square.
+The looker leaves.
+
+Pip:    Sorry worked.
+Rhino:  That is the one.
+
+
+TAP 4 — A position with two legal ways out. Pick either.
+
+Pip:    Two doors.
+Rhino:  Pick one.
+Pip:    What if I pick a third door I invent.
+Rhino:  Then we are still looked at.
+
+RIGHT (either legal)
+Pip:    I picked a door.
+Rhino:  A real door.
+Pip:    I am a list person and a door person.
+Rhino:  Today you are a tap person.
+
+WRONG — classified. Match the square.
+still looked at:
+   Pip:    I picked a square that is still looked at.
+   Rhino:  That door is painted on. Not a door.
+illegal piece move:
+   Rhino:  That piece cannot go there.
+   Pip:    My list said it could.
+   Rhino:  The floor writes the list.
+doing nothing:
+   Pip:    I did nothing. A fourth way. Freeze.
+   Rhino:  Freeze is for later. Move, block, or take.
+
+PLAIN LINE
+Rhino:  One of the two stars.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip invents a third door,
+walks through a wall,
+and comes out on one of the two stars.
+
+Pip:    Invented door.
+Rhino:  That is the one.
+Pip:    It was a real door after all.
+Rhino:  It was one of the two.
+
+
+CELEBRATION — Three Doors, One Window
+
+A tiny house arrives.
+It has three doors.
+All three doors work.
+
+Pip goes in door one.
+He waves out the window.
+Pip goes in door two.
+He waves out the same window.
+Pip goes in door three.
+He waves out the same window, slower.
+
+Pip:    Is that the same window.
+Rhino:  It is the same window.
+Pip:    Three doors.
+Rhino:  One window.
+
+Rhino uses door two.
+Once.
+He waves once.
+
+Pip:    Your door is better.
+Rhino:  My door is one door.
+
+
+================================================================
+CHAPTER 13 — NO WAY OUT
+================================================================
+
+Quietly holding: checkmate is check with no move, no block, no take. The game ends.
+The joke: Pip looks for a fourth door. There is not one. Then they bow anyway.
+Taps: 4. Mate in one, very small.
+Celebration: The Towel Curtain.
+
+
+OPEN
+
+Rhino wears the paper crown.
+He is in the corner.
+A queen and a rook have closed the doors.
+
+Pip:    List.
+         Run.
+         Block.
+         Take.
+Rhino:  Look.
+Pip:    I am looking.
+         I do not like this looking.
+
+
+TAP 1 — Is the king looked at. Tap the king if yes.
+
+RIGHT
+Pip:    Looked at.
+Rhino:  Looked at.
+Pip:    Maybe the looker is shy.
+Rhino:  The looker is a queen.
+Pip:    Queens are not shy.
+
+WRONG — classified. Match the tap.
+a pawn:
+   Pip:    I tapped a pawn. Pawns look at things too.
+   Rhino:  This look is at the king.
+the other king:
+   Rhino:  That king is the other one.
+   Pip:    Crowns everywhere.
+   Rhino:  The corner crown.
+the queen:
+   Pip:    I tapped the queen to say stop looking.
+   Rhino:  First we say the king is in trouble. Tap him.
+
+PLAIN LINE
+Rhino:  Tap the king in the corner.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip goes to the corner to look under the king
+for a basement door.
+His flipper is on the king.
+
+Pip:    No basement.
+Rhino:  That is the one.
+
+
+TAP 2 — Try to find a way out. There is none. Tap “no way out” or tap the mating idea.
+
+Give two jobs: first let them hunt a star that does not exist.
+Then: deliver the last landing if they are the ones giving mate.
+
+For the child giving mate:
+Tap the move that ends it.
+
+Pip:    There must be a door.
+Rhino:  Look at the list.
+Pip:    I will add a door.
+         Door four. Magic.
+Rhino:  No door four.
+
+RIGHT
+The move lands.
+The king has nowhere.
+Pip:    Oh.
+Rhino:  No way out.
+Pip:    That is the end of the game.
+Rhino:  That is the end of the game.
+Pip:    We should tell our faces.
+         They tell their faces.
+
+WRONG — classified. Match the square.
+ran into the queen:
+   Pip:    I ran him into the queen.
+   Rhino:  That is still looked at. Look again.
+a block that leaves another look:
+   Rhino:  That block leaves another look.
+   Pip:    Looks should take turns.
+   Rhino:  They do not.
+a random take:
+   Pip:    I took a pawn. For morale.
+   Rhino:  Morale is not on the list. The star ends it.
+
+PLAIN LINE
+Rhino:  The star. That landing ends the looking with no door left.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip hunts door four.
+He does not find door four.
+He finds the star.
+
+Pip:    I found an ending instead.
+Rhino:  That is the one.
+
+
+TAP 3 — Another tiny mate. One move.
+
+Pip:    Again.
+         I will find a door this time.
+Rhino:  Find the ending.
+
+RIGHT
+Pip:    No door.
+         I looked under the floor.
+         No door.
+Rhino:  The floor does not have a basement.
+
+WRONG — classified. Match the square.
+check that leaves a run:
+   Pip:    I checked him but left a run.
+   Rhino:  If he can run, it is not the end. The other star.
+a take that is not mate:
+   Rhino:  That is a nice take. It is not mate.
+   Pip:    It felt final.
+   Rhino:  Final is no doors.
+eyes:
+   Pip:    I froze him with my eyes.
+   Rhino:  Eyes are not a piece.
+
+PLAIN LINE
+Rhino:  The move that leaves him looked at, with no run, no block, no take.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip looks under the floor again.
+No door.
+The piece he set down is on the star.
+
+Pip:    I put it somewhere.
+Rhino:  That is the one.
+
+
+TAP 4 — Which picture is the end. Three tiny boards: check (has a door), safe, mate. Tap mate.
+
+Pip:    One of these is the end.
+Rhino:  Only one.
+
+RIGHT
+Pip:    That one.
+         No doors.
+         I do not love it.
+         I do respect it.
+Rhino:  That is a good way to feel about an ending.
+
+WRONG — classified. Match the picture.
+the safe one:
+   Pip:    I picked the safe one. I like safe.
+   Rhino:  Safe is not the end. The one with no doors.
+check with a run:
+   Rhino:  That one is looked at, but he can run.
+   Pip:    Running is an ending in sports.
+   Rhino:  Not on this floor.
+all three:
+   Pip:    I picked all three. A triple end.
+   Rhino:  One end. The closed one.
+
+PLAIN LINE
+Rhino:  The king is looked at. No step. No block. No take.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip stacks the three pictures to make a taller ending.
+The mate picture ends up on top.
+He taps the top.
+
+Pip:    The tall one.
+Rhino:  That is the one.
+Pip:    No doors.
+Rhino:  No doors.
+
+
+CELEBRATION — The Towel Curtain
+
+A towel falls from above.
+It is a curtain.
+Confetti is tiny squares of the floor. Light and dark.
+
+Pip:    Bow.
+Rhino:  Bow.
+
+They bow.
+The towel lands on Pip.
+Pip is a ghost.
+Pip:    I am the ending.
+Rhino:  You are a towel.
+Pip:    A final towel.
+
+The confetti settles back onto the floor it came from.
+The paper crown is folded and put away.
+Until next time.
+
+
+================================================================
+CHAPTER 14 — NOBODY WINS
+================================================================
+
+Quietly holding: stalemate is no legal move and no check. Draw.
+The joke: it feels like winning. It is not. Pip celebrates. Then he has to put the party back.
+Taps: 4.
+Celebration: Cake Anyway.
+
+
+OPEN
+
+The other king sits in the corner.
+He is not looked at.
+He has no squares.
+
+Pip:    He cannot go.
+Rhino:  He cannot go.
+Pip:    So we win.
+Rhino:  Do we.
+Pip:    He is stuck. Stuck is winning.
+Rhino:  Is he looked at.
+Pip:    No.
+Rhino:  Then nobody wins.
+Pip:    That is a terrible rule.
+Rhino:  That is the rule.
+
+
+TAP 1 — Is this king looked at. Tap yes or no. (No.)
+
+Two buttons, or tap the king for no look, tap the attacker-line for yes.
+
+RIGHT (no)
+Pip:    Not looked at.
+Rhino:  Not looked at.
+Pip:    But stuck.
+Rhino:  Stuck and safe is a draw.
+Pip:    Draw looks like a word for pictures.
+Rhino:  Here it means nobody wins.
+
+WRONG — classified. Match the tap.
+yes:
+   Pip:    I said yes. He looks stuck. Stuck feels looked at.
+   Rhino:  Stuck is not looked at. No one is on his line.
+a far piece:
+   Rhino:  That piece is far and not pointing at him.
+   Pip:    It is pointing with its soul.
+   Rhino:  Souls do not count. No.
+win:
+   Pip:    I tapped win.
+   Rhino:  Not win. First answer: is he looked at. No.
+
+PLAIN LINE
+Rhino:  Nobody is looking at this king. Tap no.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip leans in to see if anyone is looking.
+Nobody is looking.
+His flipper lands on no.
+
+Pip:    I was checking.
+Rhino:  That is the one.
+
+
+TAP 2 — Does he have a legal step. Tap his squares. None work. Tap “no steps.”
+
+RIGHT
+Pip:    No steps.
+         I checked under his feet.
+         No steps.
+Rhino:  No steps. Not looked at.
+Pip:    So we bring the party.
+Rhino:  We bring a smaller party.
+
+WRONG — classified. Match the square.
+a hop:
+   Pip:    He can hop. I would hop.
+   Rhino:  He is a king. One step. Those steps are looked at or off the floor.
+a looked-at step:
+   Rhino:  That square is his, but it is looked at. He may not go there.
+   Pip:    He can go there and apologize.
+   Rhino:  He cannot.
+moving our queen in the head:
+   Pip:    I moved our queen away in my head so he could walk.
+   Rhino:  Today we do not move her. Look at now.
+
+PLAIN LINE
+Rhino:  Every step is closed. He has no move.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip checks under the king’s feet for spare steps.
+No steps.
+He taps the empty.
+
+Pip:    I looked everywhere.
+Rhino:  That is the one.
+
+
+TAP 3 — Two pictures: mate vs nobody-wins. Tap nobody-wins.
+
+RIGHT
+Pip:    This one.
+         The quiet one.
+Rhino:  The quiet one.
+Pip:    I do not get a balloon.
+Rhino:  You get a balloon later. A shared balloon.
+
+WRONG — classified. Match the picture.
+mate:
+   Pip:    I picked the end where we win.
+   Rhino:  In that one he is looked at. In this one he is not.
+check:
+   Rhino:  That picture is just a check. He can run.
+   Pip:    Running is losing if you are tired.
+   Rhino:  Not the rule.
+both:
+   Pip:    I picked both and mixed them.
+   Rhino:  One picture. The safe stuck king.
+
+PLAIN LINE
+Rhino:  Not looked at. No moves. Nobody wins.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip holds both pictures.
+The quiet one is heavier.
+He puts that one down.
+
+Pip:    This one.
+Rhino:  That is the one.
+
+
+TAP 4 — Make a move that does NOT stalemate. A star that keeps a door open, or a mate if that is the lesson. Here: they have a chance to mate or to trap without looking. Pick the mate.
+
+Pip:    I want the real ending.
+Rhino:  Then leave him a look, and no doors.
+Pip:    Or I can leave him no doors and no look.
+Rhino:  That is the quiet ending. We have met it.
+         If you want a win, look at him too.
+
+RIGHT (the mate star)
+Pip:    Looked at. No doors.
+Rhino:  That is a win.
+Pip:    I like a win.
+         I also liked the cake idea.
+Rhino:  Cake can happen after either.
+
+WRONG — classified. Match the square.
+stalemate trap:
+   Pip:    I took his last square but not the look.
+   Rhino:  That is nobody-wins. The other star looks at him too.
+lets him run:
+   Rhino:  That move lets him run.
+   Pip:    I am generous.
+   Rhino:  Be generous later.
+freeze:
+   Pip:    I froze and called it art.
+   Rhino:  Art is the celebration. Now tap the star.
+
+PLAIN LINE
+Rhino:  The star that looks at him and leaves no door.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip almost takes the last square with no look.
+He trips.
+He lands on the star that looks as well.
+
+Pip:    I tripped into a win.
+Rhino:  That is the one.
+
+
+CELEBRATION — Cake Anyway
+
+A cake arrives.
+It has no winner name on it.
+It says ANYWAY.
+
+Pip:    I wanted MY NAME.
+Rhino:  Anyway is a fine name.
+Pip:    Anyway tastes like cake.
+Rhino:  Anyway is cake.
+
+They eat Anyway.
+Nobody wins the cake.
+They both have cake.
+Pip admits this is a good ending for cake.
+He keeps one candle for a later win.
+
+
+================================================================
+CHAPTER 15 — THE HIDE
+================================================================
+
+Quietly holding: castling. King two squares toward a rook. Rook jumps to the other side. If neither has moved, path empty, not in or through check.
+The joke: they invent a hideout. The king and the tower swap in a clumsy flip.
+Taps: 4.
+Celebration: They Wear Each Other.
+
+
+OPEN
+
+Rhino still has the paper crown, crooked.
+A rook stands in the corner like a closet.
+
+Pip:    That tower is a house.
+Rhino:  It is a rook.
+Pip:    It is a house.
+         You should hide in the house.
+Rhino:  How.
+Pip:    You walk two. The house walks over you.
+Rhino:  That is a very strange house.
+Pip:    I invented it.
+Rhino:  We will see if the floor agrees.
+
+
+TAP 1 — Castle king-side. Drag or tap the king two squares, or tap a castle button.
+
+RIGHT
+They swap.
+It is clumsy.
+Rhino ends in the hide.
+The rook stands beside him like a door.
+
+Pip:    Hideout.
+Rhino:  Hideout.
+Pip:    I invented this.
+Rhino:  You named this.
+Pip:    Naming is half of inventing.
+
+WRONG — classified. Match the square.
+three squares:
+   Pip:    I walked the king three. A bigger hide.
+   Rhino:  Two squares. Only two.
+rook first:
+   Rhino:  I moved the rook first. The floor wanted the king to start it.
+   Pip:    The house should get a say.
+   Rhino:  The king starts the hide.
+a hop to the corner:
+   Pip:    I jumped the king into the corner in one hop.
+   Rhino:  No hop. Two steps. The rook comes around.
+
+PLAIN LINE
+Rhino:  King two squares toward the tower.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip shoves the house a little.
+The king slides two.
+The house walks over.
+
+Pip:    Hide.
+Rhino:  That is the one.
+
+
+TAP 2 — The path is blocked by a bishop. They must clear, then hide.
+
+Pip:    The house is full.
+Rhino:  A bishop is in the hallway.
+Pip:    Evict.
+Rhino:  Move it first. Then hide.
+
+RIGHT
+Pip:    Hallway empty.
+         Now hide.
+Rhino:  Now hide.
+         They hide.
+
+WRONG — classified. Match the square.
+through the bishop:
+   Pip:    I hid through the bishop.
+   Rhino:  No through. Move the bishop first.
+the other side:
+   Rhino:  I hid the other way. That rook already walked in my head.
+   Pip:    Heads are not the floor.
+   Rhino:  Clear this hallway.
+taking our bishop:
+   Pip:    I took our bishop. It was in the way.
+   Rhino:  It is ours. Slide it off the line.
+
+PLAIN LINE
+Rhino:  Move the piece out of the way. Then the king two toward the rook.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip scolds the bishop.
+The bishop leaves the hallway to get away from the scold.
+Then the hide happens.
+
+Pip:    Evicted.
+Rhino:  That is the one.
+
+
+TAP 3 — You cannot hide while looked at. Step out of the look, then hide.
+
+A rook looks at the king.
+
+Pip:    Hide NOW.
+Rhino:  I am being looked at.
+Pip:    Hide from the look.
+Rhino:  I cannot hide while I am looked at.
+         First step off the look.
+         Then hide.
+
+RIGHT
+Pip:    Rules for hiding.
+         One. Not looked at.
+         Two. Empty hallway.
+         Three. Nobody has gone for a walk already.
+Rhino:  That is the list.
+Pip:    I love a list.
+
+WRONG — classified. Match the square.
+hid while looked at:
+   Pip:    I hid anyway. Brave hide.
+   Rhino:  Brave is not allowed here. Off the look first.
+still on the look line:
+   Rhino:  That step is still on the look line.
+   Pip:    Looks cannot see sideways.
+   Rhino:  This look can.
+sunglasses only:
+   Pip:    I put sunglasses on the king.
+   Rhino:  Sunglasses are not a hide. Step, then castle.
+
+PLAIN LINE
+Rhino:  Get off the line. Then two squares toward the rook.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip puts sunglasses on the king.
+The sunglasses slide.
+The king steps off the line to catch them.
+Then they hide.
+
+Pip:    Hats first.
+Rhino:  That is the one.
+
+
+TAP 4 — Pick the side. Two hideouts. One path is clear.
+
+Pip:    Two houses.
+Rhino:  One is ready.
+Pip:    I like the far house. It is roomier.
+Rhino:  The far house has a guest in the hall.
+Pip:    Evict later. Hide now, the ready one.
+
+RIGHT
+Pip:    Short house.
+Rhino:  Short house.
+Pip:    Still a house.
+Rhino:  Still a hide.
+
+WRONG — classified. Match the square.
+the blocked house:
+   Pip:    I picked the blocked house. I believed in it.
+   Rhino:  Belief does not empty a square. The other hide.
+a rook that already moved:
+   Rhino:  That rook already moved. The hide is closed.
+   Pip:    Rooks should forget they moved.
+   Rhino:  They do not forget.
+a pawn:
+   Pip:    I hid the pawn. Pawns need houses too.
+   Rhino:  Only the king and a rook.
+
+PLAIN LINE
+Rhino:  The clear side. King two toward that rook.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip walks toward the roomy house,
+hits the guest in the hall,
+turns around,
+and hides in the short house.
+
+Pip:    Fine. Small house.
+Rhino:  That is the one.
+
+
+CELEBRATION — They Wear Each Other
+
+Pip puts on Rhino’s glasses.
+They slide down his beak.
+Rhino puts a flipper-shaped hat on his horn.
+It does not stay.
+
+Pip:    I am the looking one now.
+Rhino:  I am the hopping one now.
+Pip:    Hop.
+Rhino:  I will think about hopping.
+Pip:    That is not hopping.
+Rhino:  That is my hop.
+
+They swap back.
+The glasses go to Rhino.
+The hide stays a hide.
+Pip keeps a little of the looking, on purpose.
+
+
+================================================================
+CHAPTER 16 — THE WHOLE FLOOR
+================================================================
+
+Quietly holding: everything so far, in one gentle game. Then the name.
+The joke: they have been inventing a game. The game already had a name.
+Taps: 4, then a short play, then the name.
+Celebration: Sky Dive Picnic.
+Do not say chess until the last beat.
+
+
+OPEN
+
+The floor is full now.
+Two sides. All the walkers they met.
+Rhino and Pip sit where the drawing has them.
+Pip holds a pawn.
+Rhino holds a king.
+
+Pip:    We made a lot of games.
+Rhino:  We made one game with a lot of parts.
+Pip:    What do we call it.
+Rhino:  We do not call it yet.
+         We play it.
+
+
+TAP 1 — Set the floor the right way. Light corner on the right.
+
+Pip:    Fancy corner.
+Rhino:  Light. Right.
+
+RIGHT
+Pip:    I remember.
+Rhino:  You remember.
+Pip:    Dark is still a bit fancier.
+Rhino:  A bit.
+
+WRONG — classified. Match the square.
+a1 — dark near corner:
+   Pip:    I put dark on the right. For old times.
+   Rhino:  New times. Light on the right.
+h8 — far light corner:
+   Rhino:  That is the far corner.
+   Pip:    Far is dramatic.
+   Rhino:  Near. Right. Light.
+somewhere else:
+   Pip:    I tapped the middle. Neutral.
+   Rhino:  The corner. H one.
+
+PLAIN LINE
+Rhino:  Light corner by your right hand.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip goes to stand on Fancy Corner
+to remember chapter one.
+He is on the light one.
+
+Pip:    I remember.
+Rhino:  That is the one.
+
+
+TAP 2 — Place or tap: king on his home, rook in the corner. A tiny setup check.
+
+Pip:    House in the corner.
+         Tired one in the middle of the home row.
+Rhino:  Yes.
+
+RIGHT
+Pip:    It looks like a place.
+Rhino:  It looks like the floor we know.
+
+WRONG — classified. Match the square.
+king already in the house:
+   Pip:    I put the king in the house already. Early hide.
+   Rhino:  Hide later. King on his own square first.
+the queen’s seat:
+   Rhino:  That is the queen’s seat.
+   Pip:    They can share. They are tall.
+   Rhino:  They do not share.
+rook in the middle:
+   Pip:    I put the rook in the middle. A traveling house.
+   Rhino:  House starts in the corner.
+
+PLAIN LINE
+Rhino:  King on e1. Rook on h1. Or the picture that matches.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip puts the tired one on his own square
+so the crown will sit still.
+The house is already in the corner.
+
+Pip:    It looks like a place.
+Rhino:  That is the one.
+
+
+TAP 3 — Play a first real stretch. Child is white. Soft opponent. Goal: just play legal. After a few moves, freeze on a simple take or a simple check.
+
+Keep this short. Three legal moves is enough inside the chapter.
+Then one starred idea: a take, or a hide, or a look.
+
+Pip:    Your turn.
+Rhino:  Our friend moves the white ones.
+Pip:    I will cheer.
+         Quietly.
+         Not quietly.
+
+RIGHT (any legal, then the starred idea when it appears)
+Pip:    That is the game.
+Rhino:  That is the game.
+Pip:    It feels like all the games at once.
+Rhino:  It is.
+
+WRONG — classified. Match the square.
+wrong walk:
+   Pip:    That piece does not walk that way.
+   Rhino:  The way we learned. Try another square.
+our own piece:
+   Rhino:  That seat is ours. We do not take ours.
+   Pip:    I forgot whose feet.
+   Rhino:  Light pieces. Our feet.
+a pawn hop:
+   Pip:    I hopped a pawn. I missed hopping.
+   Rhino:  Pawns walk. Knights hop.
+
+PLAIN LINE
+Rhino:  A square that piece can go to.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip cheers so hard he bumps a white piece
+onto a square it is allowed to sit on.
+
+Pip:    That was a cheer.
+Rhino:  That is the one.
+Pip:    A legal cheer.
+Rhino:  A legal cheer.
+
+
+TAP 4 — The small game ends in a gentle way. Mate, or the opponent resigns by sitting down, or a simple last take. Then the name.
+
+A book sits beside the floor.
+Or a parent voice.
+Or Pip sees letters on the side of the board he has been ignoring.
+
+They sit.
+
+Pip:    We invented this.
+Rhino:  We found this.
+Pip:    Same thing.
+Rhino:  Not the same thing.
+         Pip looks under the board.
+Pip:    There is a word.
+Rhino:  There is a word.
+
+On screen, for the first time:  chess
+
+Pip:    Chess.
+Rhino:  Chess.
+Pip:    That is a short name for a long floor.
+Rhino:  It is the name.
+Pip:    I still like Fancy Corner.
+Rhino:  We can call chapter one Fancy Corner.
+         This is chess.
+
+If they want a line from the child, the prompt is just:
+         Tap the word.
+
+RIGHT
+Pip:    We played chess.
+         We did not know.
+         Now we know.
+Rhino:  Now we can play again.
+Pip:    Without a chapter.
+Rhino:  Without a chapter.
+
+WRONG — classified. Match the tap.
+the whole board:
+   Pip:    I tapped the board. The whole board.
+   Rhino:  The word. Under the board.
+the book:
+   Rhino:  That is the book. The word is smaller.
+   Pip:    Books have many words.
+   Rhino:  This one has one.
+fancy corner:
+   Pip:    I tapped Fancy Corner. Old name.
+   Rhino:  Old name is for chapter one. Tap the new word.
+
+PLAIN LINE
+Rhino:  The word under the board.
+
+SHOW — fourth miss. Pip finds it. The tap completes.
+
+Pip looks under the board for the word
+and his flipper hits the word.
+
+Pip:    There it is.
+Rhino:  That is the one.
+Pip:    Chess.
+Rhino:  Chess.
+
+
+CELEBRATION — Sky Dive Picnic
+
+They jump.
+They do not jump from space.
+They jump from a very small hill that thinks it is space.
+
+A picnic falls with them.
+The blanket becomes a parachute.
+Sandwiches fall the wrong way and land first.
+
+Pip:    This is because we finished the whole floor.
+Rhino:  This is because we finished the story.
+Pip:    Is there more floor.
+Rhino:  There is more playing.
+Pip:    Is there more ice cream.
+Rhino:  There is more ice cream.
+
+They land.
+They eat the sandwiches that arrived early.
+The board sits beside the blanket.
+The word sits on it.
+They do not have to tap it again.
+
+Pip:    Same time tomorrow.
+Rhino:  Same floor.
+Pip:    Different sandwich.
+Rhino:  Different sandwich.
+
+
+================================================================
+END OF SERIES 1
+================================================================
+
+After this they can just play.
+If there is a Series 2, it starts after they know the name.
+)

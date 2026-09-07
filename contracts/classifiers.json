@@ -1,0 +1,143 @@
+{
+  "$comment": "Maps the free-English classifier labels used in the scripts to match rules the converter can apply. An unknown label is a build failure — the converter does not guess. Adding a label is a contract change.",
+
+  "$origin": "Match kinds resolve against the tap's origin: the piece being moved, or the character named in the tap.",
+
+  "$order": "Entries in a tap are checked top to bottom. fallback matches everything and must be last.",
+
+  "labels": {
+
+    "$comment_squares": "Exact squares. Chapter and tap context supplies the coordinate where the label is a name rather than a coordinate.",
+    "a1 — Pip's corner":        { "kind": "square", "square": "a1" },
+    "a1 — Pip's old corner":    { "kind": "square", "square": "a1" },
+    "a1 — dark near corner":    { "kind": "square", "square": "a1" },
+    "h8 — far light corner":    { "kind": "square", "square": "h8" },
+    "h8 — the far light corner":{ "kind": "square", "square": "h8" },
+    "fancy corner":             { "kind": "square", "square": "h1" },
+    "neighbour of e4":          { "kind": "adjacent", "to": "e4", "direction": "orthogonal" },
+    "Rhino's own square":       { "kind": "square", "square": "$rhino" },
+    "her own square":           { "kind": "square", "square": "$origin" },
+    "its own square":           { "kind": "square", "square": "$origin" },
+    "the queen's seat":         { "kind": "square", "square": "$queenHome" },
+
+    "$comment_colour": "Square colour.",
+    "any light square":              { "kind": "colour", "colour": "light" },
+    "any dark square":               { "kind": "colour", "colour": "dark" },
+    "a dark square":                 { "kind": "colour", "colour": "dark" },
+    "a light square it cannot reach":{ "kind": "colour", "colour": "light" },
+
+    "$comment_adjacent": "Relative to a named character.",
+    "same colour, touching Rhino": { "kind": "adjacent", "to": "rhino", "direction": "any", "sameColour": true },
+    "not touching Rhino":          { "kind": "fallback" },
+    "neighbour":                   { "kind": "adjacent", "to": "$origin", "direction": "any" },
+
+    "$comment_relation": "Geometric relation to the origin square.",
+    "a slant":         { "kind": "relation", "shape": "slant" },
+    "wrong slant":     { "kind": "relation", "shape": "slant" },
+    "empty slant":     { "kind": "relation", "shape": "slant" },
+    "a slant around":  { "kind": "relation", "shape": "slant" },
+    "a hallway":       { "kind": "relation", "shape": "hallway" },
+    "a hallway step":  { "kind": "relation", "shape": "hallway", "distance": 1 },
+    "an L":            { "kind": "relation", "shape": "L" },
+    "a hop":           { "kind": "relation", "shape": "L" },
+    "a jump":          { "kind": "relation", "shape": "L" },
+    "a pawn hop":      { "kind": "relation", "shape": "L" },
+    "back":            { "kind": "relation", "shape": "back" },
+    "back toward home":{ "kind": "relation", "shape": "back" },
+    "sideways":        { "kind": "relation", "shape": "sideways" },
+    "left or right":   { "kind": "relation", "shape": "sideways" },
+    "two squares":     { "kind": "relation", "distance": 2 },
+    "two squares away":{ "kind": "relation", "distance": 2 },
+    "two away":        { "kind": "relation", "distance": 2 },
+    "two steps":       { "kind": "relation", "distance": 2 },
+    "three squares":   { "kind": "relation", "distance": 3 },
+    "forward onto empty": { "kind": "relation", "shape": "forward" },
+
+    "$comment_blocked": "On the right line, but past a piece.",
+    "through the box":     { "kind": "blocked" },
+    "through the blocker": { "kind": "blocked" },
+    "through the bishop":  { "kind": "blocked" },
+    "through something":   { "kind": "blocked" },
+    "a slide through":     { "kind": "blocked" },
+    "blocked hallway":     { "kind": "blocked", "line": "hallway" },
+    "blocked slant":       { "kind": "blocked", "line": "slant" },
+    "blocked line":        { "kind": "blocked" },
+
+    "$comment_piece": "Tapped a piece rather than a square.",
+    "a pawn":        { "kind": "piece", "piece": "pawn" },
+    "the queen":     { "kind": "piece", "piece": "queen" },
+    "a queen":       { "kind": "piece", "piece": "queen" },
+    "the crown":     { "kind": "piece", "piece": "king" },
+    "our own piece": { "kind": "piece", "piece": "own" },
+    "a friendly piece": { "kind": "piece", "piece": "own" },
+    "taking our bishop": { "kind": "piece", "piece": "own" },
+    "the looker":    { "kind": "piece", "piece": "attacker" },
+
+    "$comment_offboard": "Tapped outside the board, or something that is not a square.",
+    "off the floor":  { "kind": "offBoard" },
+    "the whole board":{ "kind": "offBoard" },
+    "the empty air":  { "kind": "offBoard" },
+    "the book":       { "kind": "offBoard" },
+    "ice cream":      { "kind": "offBoard" },
+    "eyes":           { "kind": "offBoard" },
+    "sunglasses only":{ "kind": "offBoard" },
+    "a wave":         { "kind": "offBoard" },
+    "empty talk":     { "kind": "offBoard" },
+    "doing nothing":  { "kind": "offBoard" },
+    "freeze":         { "kind": "offBoard" },
+
+    "$comment_choice": "Picture or button screens, not board squares.",
+    "yes":  { "kind": "choice", "option": "yes" },
+    "win":  { "kind": "choice", "option": "win" },
+    "mate": { "kind": "choice", "option": "mate" },
+    "check":{ "kind": "choice", "option": "check" },
+    "the safe one": { "kind": "choice", "option": "safe" },
+    "all three":    { "kind": "choice", "option": "all" },
+    "knight or rook or bishop": { "kind": "choice", "option": "notQueen" },
+
+    "$comment_fallback": "Catch-all. Must be the last entry in its tap.",
+    "somewhere else":   { "kind": "fallback" },
+    "some other piece": { "kind": "fallback" },
+    "a different piece":{ "kind": "fallback" },
+    "empty square":     { "kind": "fallback" }
+  },
+
+  "unresolved": {
+    "$comment": "Labels that need a capability the runtime does not have yet. The converter fails loudly on these and names the missing capability. Chapters using them will not convert until it exists.",
+
+    "needsCheckDetection": [
+      "still looked at", "a looked-at step", "still on the look line",
+      "check that leaves a run", "check with a run", "lets him run",
+      "ran the king into a looked-at square", "hid while looked at",
+      "a block that leaves another look", "the other king", "the safe king"
+    ],
+    "needsMoveHistory": [
+      "a rook that already moved", "king already in the house",
+      "the blocked house", "rook first"
+    ],
+    "needsFullRules": [
+      "a take that is not mate", "stalemate trap", "a take that cannot happen",
+      "a piece that cannot take", "illegal piece move", "a random take"
+    ],
+    "needsChapterContext": [
+      "same row, not the star", "same column, not the star",
+      "same rank, not e", "same file, not four", "a file, not four",
+      "rank four, not a", "wrong letter", "wrong number",
+      "only one, missing the star", "the standing L, wrong star",
+      "stopped short", "stopped next to it", "stopped on seven",
+      "a second step that is too big", "second hop was not an L",
+      "three and one", "two and two", "one giant hop", "a shortcut jump",
+      "a straight jump", "a path with a jump in it", "landed on a box",
+      "a circle", "a circle / an L", "a new shape / an L", "around",
+      "both", "two at once", "a dash of two at once", "two rings at once",
+      "next to both", "all three in the head", "moving our queen in the head",
+      "math with back steps", "three moves", "a far piece",
+      "a block off the line", "a block that cannot get there",
+      "a block that does not work", "moved the king instead",
+      "ran into the queen", "the king taking too far", "off the row",
+      "off the column", "wrong hallway or slant", "wrong walk", "pawn walk",
+      "a hop to the corner", "back to a pawn", "the other side",
+      "rook in the middle", "a1 or other corner", "a8 or other corner"
+    ]
+  }
+}

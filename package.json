@@ -1,0 +1,17 @@
+{
+  "name": "chessrhinoandpip",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "check": "tsc --noEmit",
+    "test": "tsx --test \"**/*.test.ts\"",
+    "build": "tsx tools/build.ts",
+    "serve": "tsx tools/serve.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  }
+}

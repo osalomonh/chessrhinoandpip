@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "nodenext",
+    "target": "esnext",
+    "types": ["node"],
+    "noUncheckedIndexedAccess": true,
+    "verbatimModuleSyntax": true
+  },
+  "exclude": ["node_modules", "dist", "evals"]
+}

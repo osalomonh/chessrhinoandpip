@@ -1,0 +1,11 @@
+node_modules/
+dist/
+
+# tsc run without an outDir emits next to the sources. Never commit that.
+activity/**/*.js
+shell/**/*.js
+progress/**/*.js
+tools/**/*.js
+evals/**/*.js
+
+# Nothing under stories/ is ignored. The art is committed.

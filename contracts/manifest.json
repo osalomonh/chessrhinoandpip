@@ -1,0 +1,162 @@
+{
+  "$comment": "The dependency graph. Read before dispatching any task. If a requires entry does not exist, the task is blocked, not launched.",
+  "contracts": [
+    {
+      "id": "design-tokens",
+      "file": "design-tokens.json",
+      "implementedBy": "visual",
+      "files": [
+        "styles/",
+        "assets/"
+      ],
+      "dependsOn": [],
+      "requires": [],
+      "status": "ready"
+    },
+    {
+      "id": "chapter-format",
+      "file": "chapter-format.md",
+      "implementedBy": "content",
+      "files": [
+        "tools/",
+        "stories/rhino-and-pip/chapters/"
+      ],
+      "dependsOn": [],
+      "requires": [
+        "stories/rhino-and-pip/scripts/series-1.txt"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "classifiers",
+      "file": "classifiers.json",
+      "implementedBy": "content",
+      "files": [
+        "tools/"
+      ],
+      "dependsOn": [
+        "chapter-format"
+      ],
+      "requires": [],
+      "status": "ready"
+    },
+    {
+      "id": "story-pack",
+      "file": "story-pack.md",
+      "implementedBy": "content",
+      "files": [
+        "stories/rhino-and-pip/"
+      ],
+      "dependsOn": [
+        "chapter-format",
+        "classifiers"
+      ],
+      "requires": [
+        "stories/rhino-and-pip/chapters/ch01.json"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "activity",
+      "file": "activity.md",
+      "implementedBy": "activity",
+      "files": [
+        "activity/"
+      ],
+      "dependsOn": [
+        "chapter-format",
+        "story-pack",
+        "classifiers"
+      ],
+      "requires": [
+        "stories/rhino-and-pip/pack.json",
+        "stories/rhino-and-pip/chapters/ch01.json"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "progress",
+      "file": "progress.md",
+      "implementedBy": "progress",
+      "files": [
+        "progress/"
+      ],
+      "dependsOn": [
+        "story-pack"
+      ],
+      "requires": [
+        "stories/rhino-and-pip/pack.json"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "shell",
+      "file": "shell.md",
+      "implementedBy": "interface",
+      "files": [
+        "shell/",
+        "index.html"
+      ],
+      "dependsOn": [
+        "activity",
+        "progress",
+        "design-tokens"
+      ],
+      "requires": [
+        "activity/index.ts",
+        "progress/index.ts"
+      ],
+      "status": "ready"
+    },
+    {
+      "id": "rules",
+      "file": "rules.md",
+      "implementedBy": "rules-engine",
+      "files": [
+        "rules/"
+      ],
+      "dependsOn": [],
+      "requires": [],
+      "status": "draft"
+    },
+    {
+      "id": "opponent",
+      "file": "opponent.md",
+      "implementedBy": "game-session",
+      "files": [
+        "opponents/"
+      ],
+      "dependsOn": [
+        "rules"
+      ],
+      "requires": [
+        "rules/index.ts"
+      ],
+      "status": "draft"
+    },
+    {
+      "id": "session",
+      "file": "session.md",
+      "implementedBy": "game-session",
+      "files": [
+        "session/"
+      ],
+      "dependsOn": [
+        "rules",
+        "opponent",
+        "activity"
+      ],
+      "requires": [
+        "rules/index.ts",
+        "opponents/index.ts"
+      ],
+      "status": "draft"
+    }
+  ],
+  "$status": {
+    "draft": "Contract exists but is not ready to build against",
+    "ready": "Contract is complete; an agent may implement it",
+    "implemented": "Code exists and passes its tests",
+    "superseded": "Replaced; kept for history"
+  }
+}
