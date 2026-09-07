@@ -1,0 +1,58 @@
+{
+  "id": "rhino-and-pip",
+  "title": "Rhino and Pip",
+  "series": 1,
+  "speakers": {
+    "pip": {
+      "name": "Pip",
+      "poses": [
+        "bow",
+        "glasses",
+        "goodbye",
+        "idle",
+        "jumping",
+        "list",
+        "piecepawn",
+        "pointing",
+        "sittingonsquare",
+        "standonsquare"
+      ]
+    },
+    "rhino": {
+      "name": "Rhino",
+      "poses": [
+        "bow",
+        "crown",
+        "icecream",
+        "idle",
+        "onbench",
+        "pieceking",
+        "pointing",
+        "sittingonsquare",
+        "standonsquare",
+        "step"
+      ]
+    }
+  },
+  "chapters": [
+    "ch01",
+    "ch02",
+    "ch03",
+    "ch04",
+    "ch05",
+    "ch06",
+    "ch07",
+    "ch08",
+    "ch09",
+    "ch10",
+    "ch11",
+    "ch12",
+    "ch13",
+    "ch14",
+    "ch15",
+    "ch16"
+  ],
+  "celebrations": {
+    "ch01": "celebrations/ch01_very_tall_ice_cream.gif"
+  }
+}

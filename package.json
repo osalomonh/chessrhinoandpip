@@ -7,7 +7,8 @@
     "check": "tsc --noEmit",
     "test": "tsx --test \"**/*.test.ts\"",
     "build": "tsx tools/build.ts",
-    "serve": "tsx tools/serve.ts"
+    "serve": "tsx tools/serve.ts",
+    "convert": "tsx tools/convert.ts"
   },
   "devDependencies": {
     "@types/node": "^24.3.0",

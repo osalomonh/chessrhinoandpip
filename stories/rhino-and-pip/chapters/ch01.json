@@ -1,0 +1,607 @@
+{
+  "id": "ch01",
+  "order": 1,
+  "title": "THE FANCY CORNER",
+  "holds": "the floor is two colours. The right-hand corner is light.",
+  "board": {
+    "size": 8,
+    "pieces": []
+  },
+  "characters": {
+    "pip": {
+      "at": "a1"
+    },
+    "rhino": {
+      "at": "h1"
+    }
+  },
+  "open": [
+    {
+      "stage": "The floor is already there. No pieces. Pip stands on the near-left corner. Dark. Rhino stands on the near-right corner. Light. They look at the child."
+    },
+    {
+      "pip": "This corner is the good one."
+    },
+    {
+      "rhino": "Why."
+    },
+    {
+      "pip": "Dark is fancier."
+    },
+    {
+      "rhino": "I thought the one on the right was light."
+    },
+    {
+      "pip": "That cannot be right. Dark has mystery. Dark has style."
+    },
+    {
+      "rhino": "We should ask."
+    }
+  ],
+  "taps": [
+    {
+      "id": "t1",
+      "prompt": "Tap the light corner.",
+      "lead": [],
+      "target": {
+        "kind": "square",
+        "square": "h1"
+      },
+      "right": [
+        {
+          "stage": "Pip looks at his feet."
+        },
+        {
+          "pip": "Oh."
+        },
+        {
+          "rhino": "Light on the right."
+        },
+        {
+          "pip": "It is a little fancy."
+        },
+        {
+          "rhino": "A little."
+        },
+        {
+          "pip": "I was still mostly right."
+        },
+        {
+          "rhino": "You were standing."
+        }
+      ],
+      "wrong": [
+        {
+          "match": {
+            "kind": "square",
+            "square": "a1"
+          },
+          "lines": [
+            {
+              "pip": "See. They like mine."
+            },
+            {
+              "rhino": "They tapped yours. Yours is dark."
+            },
+            {
+              "pip": "Dark is still winning."
+            },
+            {
+              "rhino": "Dark is not the corner we need. The right one."
+            }
+          ]
+        },
+        {
+          "match": {
+            "kind": "square",
+            "square": "h8"
+          },
+          "lines": [
+            {
+              "rhino": "That is a corner. That is light."
+            },
+            {
+              "pip": "Then we are done."
+            },
+            {
+              "rhino": "That one is far. We want the near one."
+            },
+            {
+              "pip": "Near is a feeling."
+            },
+            {
+              "rhino": "Near is by your hand."
+            }
+          ]
+        },
+        {
+          "match": {
+            "kind": "colour",
+            "colour": "light"
+          },
+          "lines": [
+            {
+              "rhino": "That one is light."
+            },
+            {
+              "pip": "Light is what we wanted."
+            },
+            {
+              "rhino": "Light in a corner."
+            },
+            {
+              "pip": "Corners are so far away."
+            },
+            {
+              "rhino": "This one is by your right hand."
+            }
+          ]
+        },
+        {
+          "match": {
+            "kind": "colour",
+            "colour": "dark"
+          },
+          "lines": [
+            {
+              "pip": "Another one of mine."
+            },
+            {
+              "rhino": "That one is dark."
+            },
+            {
+              "pip": "I have many."
+            },
+            {
+              "rhino": "We need the light one. In the corner. On the right."
+            }
+          ]
+        }
+      ],
+      "plain": [
+        {
+          "rhino": "Your right hand. That corner. The light one."
+        }
+      ],
+      "show": [
+        {
+          "stage": "Pip sits down hard on the near-right corner. He looks surprised to be there."
+        },
+        {
+          "pip": "I was going to my corner."
+        },
+        {
+          "rhino": "That is the one."
+        },
+        {
+          "pip": "This one is light."
+        },
+        {
+          "rhino": "Light on the right."
+        },
+        {
+          "pip": "I meant to do that."
+        },
+        {
+          "rhino": "Of course."
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "prompt": "Tap a light square.",
+      "lead": [
+        {
+          "stage": "Pip hops only on dark squares."
+        },
+        {
+          "pip": "Fine. I will take all the fancy ones."
+        },
+        {
+          "rhino": "There are the other ones too."
+        },
+        {
+          "pip": "The pale ones."
+        },
+        {
+          "rhino": "The light ones."
+        },
+        {
+          "pip": "I will allow one."
+        }
+      ],
+      "target": {
+        "kind": "colour",
+        "colour": "light"
+      },
+      "right": [
+        {
+          "pip": "It is not that bad."
+        },
+        {
+          "rhino": "Half the floor is this."
+        },
+        {
+          "pip": "Half. That is a lot of not-fancy."
+        },
+        {
+          "rhino": "Or a lot of floor."
+        }
+      ],
+      "wrong": [
+        {
+          "lines": [
+            {
+              "pip": "That is one of mine."
+            },
+            {
+              "rhino": "Dark. We want a light one."
+            },
+            {
+              "pip": "Mine needed a friend."
+            },
+            {
+              "rhino": "Later."
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "rhino": "You found a square."
+            },
+            {
+              "pip": "A great square."
+            },
+            {
+              "rhino": "A dark square. Tap a light one."
+            },
+            {
+              "pip": "Light ones are shy."
+            },
+            {
+              "rhino": "They are not shy. They are everywhere."
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "pip": "I will close my eyes and it will become fancy."
+            },
+            {
+              "rhino": "It will stay dark."
+            },
+            {
+              "pip": "Rude."
+            },
+            {
+              "rhino": "A light square. Any light square."
+            }
+          ]
+        }
+      ],
+      "plain": [
+        {
+          "rhino": "A light square. Not a dark one."
+        }
+      ],
+      "show": [
+        {
+          "stage": "Pip hops, misses a dark square, and lands on a light one. He stares at his feet."
+        },
+        {
+          "pip": "Betrayal."
+        },
+        {
+          "rhino": "That is the one."
+        },
+        {
+          "pip": "A light one."
+        },
+        {
+          "rhino": "A light one."
+        },
+        {
+          "pip": "I will allow it."
+        }
+      ]
+    },
+    {
+      "id": "t3",
+      "prompt": "Tap a dark square.",
+      "lead": [
+        {
+          "stage": "Pip is on a light square. He looks injured."
+        },
+        {
+          "pip": "This one is not fancy."
+        },
+        {
+          "rhino": "You can stand on those too."
+        },
+        {
+          "pip": "I am standing. I am not enjoying it."
+        },
+        {
+          "rhino": "There is a dark one next to you."
+        }
+      ],
+      "target": {
+        "kind": "colour",
+        "colour": "dark"
+      },
+      "right": [
+        {
+          "stage": "Pip steps on it like a stage."
+        },
+        {
+          "pip": "Ah. Home."
+        },
+        {
+          "rhino": "You liked that colour already."
+        },
+        {
+          "pip": "I like it more now that I suffered."
+        }
+      ],
+      "wrong": [
+        {
+          "lines": [
+            {
+              "pip": "Two light ones. A collection."
+            },
+            {
+              "rhino": "We need a dark one now."
+            },
+            {
+              "pip": "The collection was going so well."
+            },
+            {
+              "rhino": "Later."
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "rhino": "Still light."
+            },
+            {
+              "pip": "Maybe all the dark ones left."
+            },
+            {
+              "rhino": "They did not leave. They are next to the light ones."
+            }
+          ]
+        },
+        {
+          "lines": [
+            {
+              "pip": "I have committed to light now."
+            },
+            {
+              "rhino": "For one tap, un-commit."
+            },
+            {
+              "pip": "Painful."
+            },
+            {
+              "rhino": "A dark one."
+            }
+          ]
+        }
+      ],
+      "plain": [
+        {
+          "rhino": "A dark square this time."
+        }
+      ],
+      "show": [
+        {
+          "stage": "Pip backs up from a light square and steps onto a dark one without looking."
+        },
+        {
+          "pip": "Oh."
+        },
+        {
+          "rhino": "That is the one."
+        },
+        {
+          "pip": "Home."
+        },
+        {
+          "rhino": "Home."
+        }
+      ]
+    },
+    {
+      "id": "t4",
+      "prompt": "Tap the square next to Rhino’s foot. Other colour.",
+      "lead": [
+        {
+          "stage": "Rhino puts a foot on a light square."
+        },
+        {
+          "rhino": "This one. Then that one."
+        },
+        {
+          "pip": "Light. Fancy. Light. Fancy."
+        },
+        {
+          "rhino": "If you say so."
+        },
+        {
+          "pip": "I do say so. I have a system."
+        },
+        {
+          "rhino": "Tap the one next to my foot."
+        }
+      ],
+      "target": {
+        "kind": "adjacent",
+        "to": "rhino",
+        "direction": "orthogonal"
+      },
+      "right": [
+        {
+          "pip": "It does that the whole way."
+        },
+        {
+          "rhino": "It does."
+        },
+        {
+          "pip": "So my system is the floor’s system."
+        },
+        {
+          "rhino": "The floor had it first."
+        },
+        {
+          "pip": "The floor can have credit. Some credit."
+        }
+      ],
+      "wrong": [
+        {
+          "match": {
+            "kind": "adjacent",
+            "to": "rhino",
+            "direction": "any",
+            "sameColour": true
+          },
+          "lines": [
+            {
+              "rhino": "That one is next to me."
+            },
+            {
+              "pip": "Then we are done."
+            },
+            {
+              "rhino": "Next, and the other colour."
+            },
+            {
+              "pip": "Matching is nicer."
+            },
+            {
+              "rhino": "Matching is the same colour. We want the other one."
+            }
+          ]
+        },
+        {
+          "match": {
+            "kind": "square",
+            "square": "h1"
+          },
+          "lines": [
+            {
+              "pip": "I tapped you."
+            },
+            {
+              "rhino": "I am already here."
+            },
+            {
+              "pip": "Sharing."
+            },
+            {
+              "rhino": "The square beside me. The other colour."
+            }
+          ]
+        },
+        {
+          "match": {
+            "kind": "fallback"
+          },
+          "lines": [
+            {
+              "pip": "A square is a square."
+            },
+            {
+              "rhino": "Next to this one. Touching my foot."
+            },
+            {
+              "pip": "Next is a feeling."
+            },
+            {
+              "rhino": "Next is touching my foot."
+            }
+          ]
+        }
+      ],
+      "plain": [
+        {
+          "rhino": "Touching this one. Different colour."
+        }
+      ],
+      "show": [
+        {
+          "stage": "Pip walks toward Rhino to argue and stops on the square touching Rhino’s foot."
+        },
+        {
+          "pip": "I was not tapping."
+        },
+        {
+          "rhino": "That is the one."
+        },
+        {
+          "pip": "It is next to you."
+        },
+        {
+          "rhino": "Different colour."
+        },
+        {
+          "pip": "My argument landed."
+        },
+        {
+          "rhino": "Your feet landed."
+        }
+      ]
+    }
+  ],
+  "celebration": {
+    "name": "The Very Tall Ice Cream",
+    "media": "celebrations/ch01_very_tall_ice_cream.gif",
+    "script": [
+      {
+        "stage": "An ice cream arrives on the light corner. It is taller than Rhino."
+      },
+      {
+        "pip": "Is this because of the corner."
+      },
+      {
+        "rhino": "I think it is because we finished."
+      },
+      {
+        "pip": "I will eat the fancy part."
+      },
+      {
+        "rhino": "Which part is fancy."
+      },
+      {
+        "pip": "The dark sprinkles."
+      },
+      {
+        "rhino": "Of course."
+      },
+      {
+        "stage": "The ice cream leans toward Pip’s old corner. Pip leans with it. Rhino holds the cone like a tree."
+      },
+      {
+        "pip": "Can we keep the floor like this."
+      },
+      {
+        "rhino": "Yes."
+      },
+      {
+        "pip": "Even the light ones."
+      },
+      {
+        "rhino": "Even those."
+      },
+      {
+        "pip": "Even the ice cream."
+      },
+      {
+        "rhino": "That part is gone."
+      }
+    ]
+  }
+}

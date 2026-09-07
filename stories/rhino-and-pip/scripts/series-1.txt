@@ -263,16 +263,16 @@ same colour, touching Rhino:
    Rhino:  Next, and the other colour.
    Pip:    Matching is nicer.
    Rhino:  Matching is the same colour. We want the other one.
-not touching Rhino:
-   Pip:    A square is a square.
-   Rhino:  Next to this one. Touching my foot.
-   Pip:    Next is a feeling.
-   Rhino:  Next is touching my foot.
 Rhino’s own square:
    Pip:    I tapped you.
    Rhino:  I am already here.
    Pip:    Sharing.
    Rhino:  The square beside me. The other colour.
+not touching Rhino:
+   Pip:    A square is a square.
+   Rhino:  Next to this one. Touching my foot.
+   Pip:    Next is a feeling.
+   Rhino:  Next is touching my foot.
 
 PLAIN LINE
 Rhino:  Touching this one. Different colour.
