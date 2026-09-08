@@ -11,7 +11,7 @@ const dist = join(root, "dist");
 
 // Static files served as-is. Everything under stories/ ships: the PNGs and GIFs
 // are the product, not build artefacts.
-const staticEntries = ["index.html", "styles", "stories"];
+const staticEntries = ["index.html", "styles", "assets", "stories"];
 
 rmSync(dist, { recursive: true, force: true });
 mkdirSync(dist, { recursive: true });

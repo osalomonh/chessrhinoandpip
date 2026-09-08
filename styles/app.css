@@ -1,0 +1,475 @@
+/* Rhino and Pip — app stylesheet.
+   Loads contracts/design-tokens.json's values via tokens.css and styles
+   every screen the shell and activity runtime render. See the header
+   comments of activity/dom-presenter.ts, shell/render-path.ts,
+   shell/render-chapter.ts and shell/render-about.ts for the exact class
+   names this file must answer to.
+
+   One stated breakpoint for the whole product: 600px. Below it is "phone"
+   layout; at or above it is "tablet and desktop," styled identically per
+   contracts/design-tokens.json ("responsive: tablet and desktop equally").
+*/
+
+@import url('./tokens.css');
+
+/* ---------------------------------------------------------------------
+   Base
+   --------------------------------------------------------------------- */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--color-paper);
+  color: var(--color-ink);
+  font-family: var(--font-body);
+  font-size: var(--font-size-sm);
+  line-height: var(--line-height-normal);
+  -webkit-font-smoothing: antialiased;
+}
+
+#app {
+  min-height: 100vh;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Visible keyboard focus on every interactive element, in pip — the
+   token's "selection/accent" colour, per contracts/design-tokens.json. */
+a:focus-visible,
+button:focus-visible {
+  outline: 3px solid var(--color-pip);
+  outline-offset: 2px;
+}
+
+/* prefers-reduced-motion: reduce every transition and animation to
+   instant. Feedback itself is never removed — see the celebration
+   highlight further down, which uses animation-fill-mode so its resting
+   state still applies even when the animation is (near-)instant. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+/* ---------------------------------------------------------------------
+   Path screen — contracts/shell.md "The path", shell/render-path.ts
+   --------------------------------------------------------------------- */
+
+.path-screen {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: var(--color-paper);
+}
+
+.path-strip {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--touch-min-gap);
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--space-6) var(--space-4);
+}
+
+@media (min-width: 600px) {
+  .path-strip {
+    flex-direction: row;
+    /* Centre the strip as a group when it fits the viewport; "safe"
+       falls back to start-alignment (scrollable from the first square,
+       nothing clipped) when it does not fit, rather than centring an
+       overflowing row and hiding its start past the left edge. */
+    justify-content: safe center;
+    overflow-x: auto;
+    overflow-y: visible;
+    padding: var(--space-8) var(--space-6);
+  }
+}
+
+.path-square {
+  width: var(--touch-min-target);
+  height: var(--touch-min-target);
+  flex-shrink: 0;
+  border: 2px solid var(--color-ink);
+  border-radius: var(--radius-sm);
+}
+
+.path-square--light {
+  background: var(--color-board-light);
+}
+
+.path-square--dark {
+  background: var(--color-board-dark);
+}
+
+/* Quiet / quieter: modulated via the ink token's own alpha, never a new
+   hue — same RGB channels as --color-ink (#1A1A1A = 26, 26, 26), only
+   opacity differs. */
+.path-square--done {
+  border-color: rgba(26, 26, 26, 0.55);
+}
+
+.path-square--undone {
+  border-color: rgba(26, 26, 26, 0.25);
+}
+
+/* "You are here" is a selection, not a reward — pip is the token's
+   selection/accent role, warm is reward, and the contract's own rule is
+   that pip is the single accent (do not introduce a second saturated
+   colour). Warm stays reserved for the celebration and is otherwise
+   unused on the path. The ink border (already present on every square)
+   carries the contrast guarantee here, not the fill itself: ink on pip
+   computes to ~2.86:1, just under the 3:1 non-text-contrast guideline —
+   see the report. There is no token-compliant border colour that scores
+   higher against pip while remaining part of this palette's neutral
+   set, so this is disclosed rather than silently accepted. */
+.path-square--current {
+  background: var(--color-pip);
+}
+
+.path-square--freeplay {
+  width: var(--touch-min-target);
+  height: var(--touch-min-target);
+  flex-shrink: 0;
+  border: 2px dashed var(--color-rhino);
+  border-radius: var(--radius-sm);
+  background: transparent;
+}
+
+.path-footer {
+  text-align: center;
+  padding: var(--space-4) var(--space-4) var(--space-6);
+}
+
+.path-footer-link {
+  font-size: var(--font-size-sm);
+  color: var(--color-rhino-dark);
+  text-decoration: underline;
+}
+
+/* ---------------------------------------------------------------------
+   Chapter screen shell — contracts/shell.md "The chapter screen",
+   shell/render-chapter.ts
+   --------------------------------------------------------------------- */
+
+.chapter-screen {
+  position: relative;
+  min-height: 100vh;
+  background: var(--color-paper);
+}
+
+/* Findable by a child who needs it, invisible to one who does not: the
+   icon itself stays at full rhinoDark opacity (so it clears AA against
+   paper — see the report), and only its circular backdrop is faint. */
+.chapter-menu {
+  position: absolute;
+  top: var(--space-4);
+  left: var(--space-4);
+  width: var(--touch-min-target);
+  height: var(--touch-min-target);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-pill);
+  color: var(--color-rhino-dark);
+  background: rgba(110, 110, 110, 0.12);
+  z-index: 5;
+  transition: background-color var(--motion-selection) var(--motion-easing);
+}
+
+.chapter-menu:hover,
+.chapter-menu:focus-visible {
+  background: rgba(110, 110, 110, 0.22);
+}
+
+.chapter-activity {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* ---------------------------------------------------------------------
+   Activity runtime — activity/dom-presenter.ts, contracts/activity.md
+   --------------------------------------------------------------------- */
+
+.activity-root {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-6);
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: var(--space-16) var(--space-4) var(--space-8);
+}
+
+/* overflow-x: auto is a narrow-phone-only safety net for when the board's
+   64px-per-square floor genuinely cannot fit beside both characters (see
+   .activity-board below). At and above the 600px breakpoint the layout
+   must never show a scrollbar, so overflow reverts to visible there —
+   nothing in the tablet/desktop layout should legitimately overflow. */
+.activity-layout {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: var(--space-6);
+  width: 100%;
+  overflow-x: auto;
+  padding-bottom: var(--space-2);
+}
+
+@media (min-width: 600px) {
+  .activity-layout {
+    overflow-x: visible;
+  }
+}
+
+/* Fixed width (matching the character image's own clamp) rather than
+   auto/shrink-to-fit: a dialogue line is a block box, and max-width: 100%
+   on it only wraps text if its containing block has a real, independently
+   -determined width to be a percentage of. With .activity-side sized by
+   its own content (the old behaviour), that "100%" had nothing non-
+   circular to resolve against, so a long line could quietly widen the
+   side — and the whole .activity-layout row with it, past 600px where no
+   scrollbar should ever appear. Fixing the side's width breaks that
+   circularity. */
+.activity-side {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-end;
+  gap: var(--space-2);
+  flex: 0 0 auto;
+  width: clamp(84px, 20vw, 220px);
+}
+
+.activity-character {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--space-2);
+  width: 100%;
+}
+
+/* Every pose renders at the same width/height with the canvas's true 3:4
+   aspect ratio and bottom-aligned, so swapping a pose changes only the
+   drawing — per contracts/story-pack.md's baked-in size relationship and
+   shared baseline. Width now comes from the fixed-width .activity-side
+   above, so every pose of every speaker still shares one size. */
+.activity-character-image {
+  width: 100%;
+  height: auto;
+  aspect-ratio: 3 / 4;
+  object-fit: contain;
+  object-position: bottom center;
+}
+
+.activity-character-dialogue {
+  font-family: var(--font-body);
+  font-size: var(--font-size-md);
+  line-height: var(--line-height-normal);
+  color: var(--color-ink);
+  text-align: center;
+  width: 100%;
+  max-width: 100%;
+  overflow-wrap: anywhere;
+  word-break: break-word;
+  min-height: 1.5em;
+}
+
+.activity-board {
+  display: grid;
+  gap: 2px;
+  background: var(--color-ink);
+  padding: 2px;
+  border: 3px solid var(--color-ink);
+  aspect-ratio: 1 / 1;
+  max-width: 640px;
+  flex: 0 0 auto;
+}
+
+.activity-square {
+  min-width: var(--board-min-square);
+  min-height: var(--board-min-square);
+}
+
+.activity-square--light {
+  background: var(--color-board-light);
+}
+
+.activity-square--dark {
+  background: var(--color-board-dark);
+}
+
+/* Correct-square highlight: a brief, strong pip flash over the square's
+   own boardLight/boardDark fill, fading to reveal that fill again, with a
+   quiet resting ring left behind.
+   background-color is intentionally NOT set in the 100% keyframe: per the
+   CSS Animations spec, a property missing from the boundary keyframe is
+   synthesized from the element's underlying (non-animated) cascade value
+   — here that's .activity-square--light/--dark's own background. That is
+   what makes the square read as its true light/dark colour again once
+   the flash fades, rather than being permanently overridden by the
+   animation (an earlier version set background-color: transparent at
+   100%, which — held by animation-fill-mode: forwards — permanently
+   overrode the light/dark fill and let the board's own ink background
+   show through, rendering the square almost solid black; this fixes that).
+   The resting ring is pip only, drawn as two inset box-shadows: a 3px pip
+   band (listed first, so it paints on top) and, beside it, a 4px ink
+   band — since the pip band already opaquely covers the inner 3px, the
+   ink band only ever shows as the outer 1px sliver. That 1px ink hairline
+   exists solely because pip alone against boardDark computes to ~2.6:1,
+   under the 3:1 non-text-contrast floor; pip remains the visually
+   dominant ring colour in every case. One-shot, using the `selection`
+   motion token and its easing; animation-fill-mode keeps the end state
+   without JS ever removing the class. Under reduced motion the duration
+   collapses (global rule above) but the same end state applies, so the
+   feedback is never lost, only instant. */
+@keyframes activity-correct-flash {
+  0% {
+    background-color: rgba(27, 95, 193, 0.5);
+    box-shadow:
+      inset 0 0 0 0 var(--color-pip),
+      inset 0 0 0 0 var(--color-ink);
+  }
+  60% {
+    background-color: rgba(27, 95, 193, 0.15);
+  }
+  100% {
+    box-shadow:
+      inset 0 0 0 3px var(--color-pip),
+      inset 0 0 0 4px var(--color-ink);
+  }
+}
+
+.activity-square--correct {
+  animation: activity-correct-flash var(--motion-selection) var(--motion-easing) forwards;
+}
+
+.activity-narration {
+  font-family: var(--font-body);
+  font-size: var(--font-size-sm);
+  color: var(--color-rhino-dark);
+  text-align: center;
+  min-height: 1.5em;
+}
+
+/* The prompt is the largest text on the chapter screen — display step on
+   tablet/desktop, dropping to xl below the 600px breakpoint so long
+   prompts stay comfortable on a small phone. Both are token steps; this
+   is not a new size. */
+.activity-prompt {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: var(--font-size-xl);
+  line-height: var(--line-height-tight);
+  color: var(--color-ink);
+  text-align: center;
+  max-width: 30ch;
+}
+
+@media (min-width: 600px) {
+  .activity-prompt {
+    font-size: var(--font-size-display);
+  }
+}
+
+/* Celebration — hidden by default via the `hidden` attribute; the
+   `:not([hidden])` scoping (rather than an unconditional display) is
+   what keeps that working, since an unscoped `display: flex` here would
+   otherwise out-rank the UA stylesheet's `[hidden] { display: none }` at
+   equal specificity. */
+.activity-celebration {
+  display: none;
+}
+
+.activity-celebration:not([hidden]) {
+  display: flex;
+  position: fixed;
+  inset: 0;
+  align-items: center;
+  justify-content: center;
+  background: var(--color-paper);
+  cursor: pointer;
+  z-index: 20;
+  padding: var(--space-6);
+}
+
+.activity-celebration-media {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+/* The resting frame is the GIF's own final frame (baked into the file,
+   per contracts/story-pack.md) — nothing here needs to force a freeze. */
+.activity-celebration-media--resting {
+}
+
+/* ---------------------------------------------------------------------
+   About — contracts/shell.md "About", shell/render-about.ts
+   --------------------------------------------------------------------- */
+
+.about-screen {
+  max-width: 38rem;
+  margin: 0 auto;
+  padding: var(--space-8) var(--space-4) var(--space-16);
+}
+
+.about-heading {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: var(--font-size-xl);
+  line-height: var(--line-height-tight);
+  color: var(--color-ink);
+  margin: 0 0 var(--space-6);
+}
+
+.about-paragraph {
+  font-family: var(--font-body);
+  font-size: var(--font-size-md);
+  line-height: var(--line-height-normal);
+  color: var(--color-rhino-dark);
+  max-width: 60ch;
+  margin: 0 0 var(--space-4);
+}
+
+.about-code-link,
+.about-back-link {
+  color: var(--color-pip);
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.about-back-link {
+  display: inline-block;
+  margin-top: var(--space-6);
+  font-size: var(--font-size-md);
+}
