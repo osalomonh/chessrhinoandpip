@@ -87,7 +87,7 @@
       "requires": [
         "stories/rhino-and-pip/pack.json"
       ],
-      "status": "ready"
+      "status": "implemented"
     },
     {
       "id": "shell",
