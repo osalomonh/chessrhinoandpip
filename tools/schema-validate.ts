@@ -1,8 +1,7 @@
 // Dependency-free JSON Schema validator.
 //
 // Supports the subset of JSON Schema (draft-07 style) that
-// contracts/chapter-format.schema.json (or the proposed one in
-// proposals/chapter-format.schema.json) is allowed to use:
+// contracts/chapter-format.schema.json is allowed to use:
 //
 //   type, properties, required, additionalProperties, items, enum, const,
 //   oneOf, anyOf, minItems, minimum, pattern
