@@ -31,7 +31,7 @@ jobs:
       - run: npm run check
       - run: npm test
 
-      # Compiles TS to ES2020 modules and copies index.html, styles/ and all of
+      # Compiles TS to ES2020 modules and copies index.html, styles/, assets/ and all of
       # stories/ (PNGs and GIFs included) into dist/.
       - run: npm run build
 
