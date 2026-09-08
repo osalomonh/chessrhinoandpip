@@ -8,4 +8,6 @@ progress/**/*.js
 tools/**/*.js
 evals/**/*.js
 
+.claude/worktrees/
+
 # Nothing under stories/ is ignored. The art is committed.
