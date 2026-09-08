@@ -106,7 +106,7 @@
         "activity/index.ts",
         "progress/index.ts"
       ],
-      "status": "ready"
+      "status": "implemented"
     },
     {
       "id": "rules",
