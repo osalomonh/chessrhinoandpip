@@ -14,7 +14,7 @@
 //   tsx tools/convert.ts --chapter 1,2,3
 //   tsx tools/convert.ts --chapter 1-16          (stops at first failure)
 //   tsx tools/convert.ts                          (all 16, stops at first failure)
-//   tsx tools/convert.ts --schema proposals/chapter-format.schema.json
+//   tsx tools/convert.ts --schema path/to/other-schema.json
 //   tsx tools/convert.ts --script path/to/script.txt --out path/to/chapters
 
 import { existsSync, mkdirSync, readdirSync, readFileSync, writeFileSync } from "node:fs";
@@ -939,8 +939,7 @@ function main(): void {
   if (!existsSync(schemaPath)) {
     console.error(
       `convert: schema file not found at ${relative(REPO_ROOT, schemaPath)}. ` +
-        `Pass --schema <path> (e.g. --schema proposals/chapter-format.schema.json) or add ` +
-        `contracts/chapter-format.schema.json.`,
+        `Pass --schema <path> to override, or add contracts/chapter-format.schema.json.`,
     );
     process.exit(1);
   }

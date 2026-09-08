@@ -16,7 +16,7 @@ import type { JsonSchema } from "./schema-validate.js";
 
 const HERE = dirname(fileURLToPath(import.meta.url));
 const REPO_ROOT = resolve(HERE, "..");
-const SCHEMA_PATH = join(REPO_ROOT, "proposals", "chapter-format.schema.json");
+const SCHEMA_PATH = join(REPO_ROOT, "contracts", "chapter-format.schema.json");
 const REAL_SCRIPT_PATH = join(REPO_ROOT, "stories", "rhino-and-pip", "scripts", "series-1.txt");
 
 function schema(): JsonSchema {
@@ -446,19 +446,12 @@ test("pack.json speakers and poses come from the files actually present", () => 
 // The real script, chapter 1 only
 // ---------------------------------------------------------------------------
 
-test("chapter 1 from the real script either converts, or fails with the known tap-4 fallback-order error", () => {
+test("chapter 1 from the real script converts cleanly and validates against the schema", () => {
   const scriptText = readFileSync(REAL_SCRIPT_PATH, "utf8");
-  try {
-    const chapter = convertChapter(scriptText, 1);
-    assert.equal(chapter.id, "ch01");
-    assert.equal(chapter.taps.length, 4);
-    const errors = validateChapter(chapter, schema());
-    assert.deepEqual(errors, []);
-  } catch (err) {
-    assert.ok(err instanceof ConvertError);
-    assert.match(err.message, /ch01/);
-    assert.match(err.message, /t4/);
-    assert.match(err.message, /fallback/i);
-    assert.match(err.message, /not last/);
-  }
+  const chapter = convertChapter(scriptText, 1);
+  assert.ok(chapter);
+  assert.equal(chapter.id, "ch01");
+  assert.equal(chapter.taps.length, 4);
+  const errors = validateChapter(chapter, schema());
+  assert.deepEqual(errors, []);
 });
